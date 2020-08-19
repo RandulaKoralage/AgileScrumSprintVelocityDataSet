@@ -1,0 +1,10 @@
+projectID - project
+sprintId - Sprint 
+status (Completed, Punted, CompletedInNotherSprint, NotCompletedWithinSprint)
+storyId - Story of task
+issueKey - Id for issue
+summary
+priorityId - (1-Blocker,2-Critical,3-Major,4-Minor,5-Trivial)
+assignee
+initialStoryPoint - The story point at the time of story cereation
+currentStoryPoint - Storypoint edited lateron

@@ -1,0 +1,65 @@
+key - Id of the issue
+issueType - (Story, Technical task, Bug, Improvement)
+status - (Done, In Progress, To Do)
+summary
+description
+storyPoint
+priority (1-Blocker,2-Critical,3-Major,4-Minor,5-Trivial)
+watchcount - Watching means you receive notifications when things happen on an issue
+fixVersions -  Fix version is the version where you plan on releasing a feature or bugfix to customers
+affectedVersions - Affects version is the version in which a bug or problem was found. 
+assignee 
+creator - the person who created the issue
+reporter - field that you can set during the creation of the issue. The default value will be the person who is creating the issue
+commentCount - Comments can range from simple text updates to let watchers know what's happening on the issue
+votes -Voting is a means of gathering feedback from users on the relative importance of the issue to the wider user base. 
+issueLinks - number of related issues
+blockedBy - This task is blocked by n number of tasks
+blocks - This task blocks n number of tasks
+dependedOnBy - number of tasks are depend on this task
+dependedOn - this task is depend on n number of tasks
+subtasks - number of subtasks
+
+---------------------Blocked vs Dependent--------------------------------
+foo depends on bar
+foo is blocked by baz
+
+One way of reading it is as:
+
+Foo cannot be started until bar is completed
+Foo was started but baz happened (an external factor, probably) and it's 
+blocking it's progress
+
+Which could be derived into:
+
+Depends are used for known or planned activities
+Blocks are used for unexpected activities
+
+----------------------Voting------------------------------------
+Voting is a means of gathering feedback from users on the relative importance of the issue 
+to the wider user base. The more votes the more important. 
+Each user has 1 vote per issue. This feedback can then be used by 
+product teams / service teams to help prioritize the issue.
+
+-----------------------Linked Issues--------------------------
+Issue linking allows you to create an association between two existing issues on either
+ the same or different Jira servers. 
+ For example: An issue may relate to another. An issue may duplicate another.
+ 
+-----------------------Watching------------------------------------
+Watching means you receive notifications when things happen on an issue. 
+For example, when someone comments on, edits, or transitions the issue, 
+you'll be notified.
+
+--------------------------FixVersions------------------------------
+Although it can be useful for tracking problems, it isn't used very often in Jira. 
+Fix version is the version where you plan on releasing a feature 
+or bugfix to customers. This field is used for release planning, 
+monitoring progress and velocity, and is used widely in reporting. 
+This is most likely the field you want.
+
+-----------------------AffectedVersion--------------------------
+Affects version is the version in which a bug or problem was found. 
+Although it can be useful for tracking problems, 
+it isn't used very often in Jira. Fix version is the version where 
+you plan on releasing a feature or bugfix to customers.

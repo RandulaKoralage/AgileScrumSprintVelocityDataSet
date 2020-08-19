@@ -1,0 +1,930 @@
+﻿projectID,sprintId,status,storyId,issueKey,summary,priorityId,assignee,initialStoryPoint,currentStoryPoint
+23,1,Completed,12760224,USERGRID-269,fix broken notifications services test,3,safeldm,0,0
+23,1,Completed,12760224,USERGRID-269,fix broken notifications services test,3,safeldm,0,0
+23,1,Completed,12761452,USERGRID-276,Implement Collection/Entity calls for new REST testing framework,3,greyes,0,0
+23,1,Completed,12761800,USERGRID-295,Create ways to post organizations using new REST test framework,3,greyes,0,0
+23,1,Completed,12761802,USERGRID-296,Create ways to create users in new REST test framework,3,safeldm,0,0
+23,1,Completed,12761805,USERGRID-298,test,3,null,0,0
+23,1,Completed,12761806,USERGRID-299,Create way to get management token and store it using the rest test framework,3,safeldm,0,0
+23,1,Completed,12762048,USERGRID-302,Update Group Tests to work with new REST Test Framework,3,rockerston,0,0
+23,1,NotCompletedWithinSprint,12757704,USERGRID-254,1 Add Event system to Collections module  use it to clean up old indices,3,djohnson,0,0
+23,1,NotCompletedWithinSprint,12760181,USERGRID-267,Rework broken Scheduler Tests in two-dot-o branch,3,null,0,0
+23,1,NotCompletedWithinSprint,12760183,USERGRID-268,3 Rework broken Migration tests in two-dot-o branch,3,null,0,0
+23,1,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,1,NotCompletedWithinSprint,12761479,USERGRID-288,Update GEO Tests to work with new REST test framework,3,rbridges,0,0
+23,1,NotCompletedWithinSprint,12761798,USERGRID-293,Oversee release of 1.0.1,3,djohnson,0,0
+23,1,Punted,12757710,USERGRID-255,5 Re-indexer That Removes Source from ES,3,djohnson,0,0
+23,1,Punted,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,1,Punted,12761473,USERGRID-282,Update Query Tests to work with new REST test framework,3,rbridges,0,0
+23,60,Completed,12761473,USERGRID-282,Update Query Tests to work with new REST test framework,3,rbridges,0,0
+23,60,Completed,12761492,USERGRID-291,Update Users Tests to work with new REST test framework,3,safeldm,0,0
+23,60,Completed,12763336,USERGRID-304,Fix Paging test using new REST test framework,3,greyes,0,0
+23,60,Completed,12764943,USERGRID-310,Update REST tests for Activities and Devices,3,safeldm,0,0
+23,60,Completed,12764944,USERGRID-311,Update remaining groups tests,3,rockerston,0,0
+23,60,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,60,NotCompletedWithinSprint,12761468,USERGRID-278,Implement Organization methods in Management Class for REST tests,3,greyes,0,0
+23,60,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,60,NotCompletedWithinSprint,12761798,USERGRID-293,Oversee release of 1.0.1,3,djohnson,0,0
+23,60,NotCompletedWithinSprint,12764945,USERGRID-312,Implement App Delete in Usergrid 2 codebase ,3,djohnson,0,0
+23,60,NotCompletedWithinSprint,12765004,USERGRID-313,Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework,3,greyes,0,0
+23,60,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,60,CompletedInNotherSprint,12757704,USERGRID-254,1 Add Event system to Collections module  use it to clean up old indices,3,djohnson,0,0
+23,60,CompletedInNotherSprint,12761479,USERGRID-288,Update GEO Tests to work with new REST test framework,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,61,NotCompletedWithinSprint,12761468,USERGRID-278,Implement Organization methods in Management Class for REST tests,3,greyes,0,0
+23,61,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,61,NotCompletedWithinSprint,12761798,USERGRID-293,Oversee release of 1.0.1,3,djohnson,0,0
+23,61,NotCompletedWithinSprint,12764945,USERGRID-312,Implement App Delete in Usergrid 2 codebase ,3,djohnson,0,0
+23,61,NotCompletedWithinSprint,12765004,USERGRID-313,Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework,3,greyes,0,0
+23,61,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,61,NotCompletedWithinSprint,12766561,USERGRID-325,Fix NotificationIT Tests by integrating it with new REST test framework.,3,rockerston,0,0
+23,61,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766564,USERGRID-328,Fix ConnectionResourceTest by integrating with new REST test framework.,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766565,USERGRID-329,Fix RetrieveUsersTest by integrating it with new REST test framework,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,61,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,61,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,0,0
+23,61,NotCompletedWithinSprint,12766577,USERGRID-337,Fix GroupResourceIT,3,rockerston,0,0
+23,61,CompletedInNotherSprint,12761476,USERGRID-285,Implement Token methods in Management Class for REST tests,3,null,0,0
+23,64,Completed,12766561,USERGRID-325,Fix NotificationIT Tests by integrating it with new REST test framework.,3,rockerston,0,0
+23,64,Completed,12766577,USERGRID-337,Fix GroupResourceIT,3,rockerston,0,0
+23,64,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,64,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,64,NotCompletedWithinSprint,12761798,USERGRID-293,Oversee release of 1.0.1,3,djohnson,0,0
+23,64,NotCompletedWithinSprint,12764945,USERGRID-312,Implement App Delete in Usergrid 2 codebase ,3,djohnson,0,0
+23,64,NotCompletedWithinSprint,12765004,USERGRID-313,Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework,3,greyes,0,0
+23,64,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,64,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766564,USERGRID-328,Fix ConnectionResourceTest by integrating with new REST test framework.,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766565,USERGRID-329,Fix RetrieveUsersTest by integrating it with new REST test framework,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,64,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,64,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,0,0
+23,64,NotCompletedWithinSprint,12768723,USERGRID-359,[SPIKE] Perform profiling of the Entity Manager and Relation Manager,4,null,0,0
+23,64,NotCompletedWithinSprint,12768805,USERGRID-360,Fix ImportIT REST tests,3,greyes,0,0
+23,64,NotCompletedWithinSprint,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,0,0
+23,64,CompletedInNotherSprint,12761480,USERGRID-289,Implement delete app,3,null,0,0
+23,70,Completed,12761798,USERGRID-293,Oversee release of 1.0.1,3,djohnson,0,0
+23,70,Completed,12764945,USERGRID-312,Implement App Delete in Usergrid 2 codebase ,3,djohnson,0,0
+23,70,Completed,12770104,USERGRID-363,Provide REST test for Import Service,3,greyes,0,0
+23,70,NotCompletedWithinSprint,12686550,USERGRID-8,Work out Usergrid 2.0 Roadmap,4,null,0,0
+23,70,NotCompletedWithinSprint,12688611,USERGRID-11,Limit the size of entities posted to Usergrid,3,tnine,0,0
+23,70,NotCompletedWithinSprint,12728029,USERGRID-193,SaveCollectionMembers in Export does not correctly export all entity data,4,djohnson,0,0
+23,70,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,70,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,70,NotCompletedWithinSprint,12761799,USERGRID-294,move cleanup to before tests run in stack,3,tnine,0,0
+23,70,NotCompletedWithinSprint,12765004,USERGRID-313,Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework,3,greyes,0,0
+23,70,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,70,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766564,USERGRID-328,Fix ConnectionResourceTest by integrating with new REST test framework.,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766565,USERGRID-329,Fix RetrieveUsersTest by integrating it with new REST test framework,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,70,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,70,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,0,0
+23,70,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job make sure it works,3,null,0,0
+23,70,NotCompletedWithinSprint,12768723,USERGRID-359,[SPIKE] Perform profiling of the Entity Manager and Relation Manager,4,null,0,0
+23,70,NotCompletedWithinSprint,12768805,USERGRID-360,Fix ImportIT REST tests,3,greyes,0,0
+23,70,NotCompletedWithinSprint,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,0,0
+23,70,NotCompletedWithinSprint,12770105,USERGRID-364,Get Import Service working with old queue system in 2.0,3,djohnson,0,0
+23,70,NotCompletedWithinSprint,12770127,USERGRID-365,Optimize Entity Storage,3,safeldm,0,0
+23,70,NotCompletedWithinSprint,12770129,USERGRID-366,Eliminate 2 network calls for non optimistic transaction writes,3,safeldm,0,0
+23,70,NotCompletedWithinSprint,12770131,USERGRID-367,Refactor entity writes to run concurrently,3,null,0,0
+23,70,CompletedInNotherSprint,12761468,USERGRID-278,Implement Organization methods in Management Class for REST tests,3,greyes,0,0
+23,71,NotCompletedWithinSprint,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,71,NotCompletedWithinSprint,12761799,USERGRID-294,move cleanup to before tests run in stack,3,tnine,0,0
+23,71,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,71,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766564,USERGRID-328,Fix ConnectionResourceTest by integrating with new REST test framework.,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766565,USERGRID-329,Fix RetrieveUsersTest by integrating it with new REST test framework,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,71,NotCompletedWithinSprint,12766571,USERGRID-333,Fix ApplicationResourceIT,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,0,0
+23,71,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job  make sure it works,3,null,0,0
+23,71,NotCompletedWithinSprint,12768805,USERGRID-360,Fix ImportIT REST tests,3,greyes,0,0
+23,71,NotCompletedWithinSprint,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12770127,USERGRID-365,Optimize Entity Storage,3,safeldm,0,0
+23,71,NotCompletedWithinSprint,12771825,USERGRID-374,Get basic import collections with connections work,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12771827,USERGRID-376,Test that you can update entities by importing,3,djohnson,0,0
+23,71,NotCompletedWithinSprint,12771828,USERGRID-377,Implement error handling for import and put tests in place to verify,3,tnine,0,0
+23,71,CompletedInNotherSprint,12688611,USERGRID-11,Limit the size of entities posted to Usergrid,3,tnine,0,0
+23,71,CompletedInNotherSprint,12758003,USERGRID-256,Use ApiResponse to parse out JsonNode responses,3,greyes,0,0
+23,71,CompletedInNotherSprint,12765004,USERGRID-313,Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework,3,greyes,0,0
+23,71,CompletedInNotherSprint,12770105,USERGRID-364,Get Import Service working with old queue system in 2.0,3,djohnson,0,0
+23,78,Completed,12766564,USERGRID-328,Fix ConnectionResourceTest by integrating with new REST test framework.,3,rbridges,0,0
+23,78,Completed,12766565,USERGRID-329,Fix RetrieveUsersTest by integrating it with new REST test framework,3,rbridges,0,0
+23,78,Completed,12768805,USERGRID-360,Fix ImportIT REST tests,3,greyes,2,2
+23,78,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,78,NotCompletedWithinSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,78,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,78,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,78,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,78,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,78,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,78,NotCompletedWithinSprint,12766571,USERGRID-333,Fix ApplicationResourceIT,3,djohnson,0,3
+23,78,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,0,2
+23,78,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job  make sure it works,3,null,0,0
+23,78,NotCompletedWithinSprint,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,0,2
+23,78,NotCompletedWithinSprint,12770127,USERGRID-365,Optimize Entity Storage,3,safeldm,0,0
+23,78,NotCompletedWithinSprint,12771825,USERGRID-374,Get basic import collections with connections work,3,djohnson,0,0
+23,78,NotCompletedWithinSprint,12771826,USERGRID-375,Implement test for resume import,4,null,3,3
+23,78,NotCompletedWithinSprint,12771827,USERGRID-376,Test that you can update entities by importing,3,djohnson,0,0
+23,78,NotCompletedWithinSprint,12771828,USERGRID-377,Implement error handling for import and put tests in place to verify,3,tnine,0,0
+23,78,NotCompletedWithinSprint,12773132,USERGRID-381,3 Change serialization format that is used to store entities in Cassandra,3,tnine,0,0
+23,78,NotCompletedWithinSprint,12773137,USERGRID-382,Clean up migration code (move from Core to CP),3,tnine,5,5
+23,78,NotCompletedWithinSprint,12773139,USERGRID-383,Create Service integration tests for Import,3,greyes,5,5
+23,78,NotCompletedWithinSprint,12773142,USERGRID-384,Get import to work on a distributed system,4,null,3,3
+23,78,NotCompletedWithinSprint,12773143,USERGRID-385,Change import/export format to support multiple collections,3,tnine,5,5
+23,78,NotCompletedWithinSprint,12773144,USERGRID-386,Change the path for getting status for Import job,3,tnine,2,2
+23,78,NotCompletedWithinSprint,12773617,USERGRID-387,Migrate Import service tests to rest tests to better emulate end to end testing,4,greyes,0,0
+23,78,NotCompletedWithinSprint,12773967,USERGRID-388,Fix Import Resource endpoint to use services to lookup import information,3,tnine,3,3
+23,78,NotCompletedWithinSprint,12774719,USERGRID-390,Issues with paging in the query system need to be addressed by meaningful changes,3,tnine,8,8
+23,79,NotCompletedWithinSprint,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,79,NotCompletedWithinSprint,12761799,USERGRID-294,move cleanup to before tests run in stack,3,tnine,5,5
+23,79,NotCompletedWithinSprint,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,79,NotCompletedWithinSprint,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,79,NotCompletedWithinSprint,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,79,NotCompletedWithinSprint,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,79,NotCompletedWithinSprint,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,79,NotCompletedWithinSprint,12766571,USERGRID-333,Fix ApplicationResourceIT,3,djohnson,3,3
+23,79,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,2,2
+23,79,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job  make sure it works,3,null,0,0
+23,79,NotCompletedWithinSprint,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,2,2
+23,79,NotCompletedWithinSprint,12770127,USERGRID-365,Optimize Entity Storage,3,safeldm,0,0
+23,79,NotCompletedWithinSprint,12770129,USERGRID-366,Eliminate 2 network calls for non optimistic transaction writes,3,safeldm,0,0
+23,79,NotCompletedWithinSprint,12771825,USERGRID-374,Get basic import collections with connections work,3,djohnson,0,0
+23,79,NotCompletedWithinSprint,12771826,USERGRID-375,Implement test for resume import,4,null,3,3
+23,79,NotCompletedWithinSprint,12771827,USERGRID-376,Test that you can update entities by importing,3,djohnson,0,0
+23,79,NotCompletedWithinSprint,12771828,USERGRID-377,Implement error handling for import and put tests in place to verify,3,tnine,0,0
+23,79,NotCompletedWithinSprint,12773132,USERGRID-381,3 Change serialization format that is used to store entities in Cassandra,3,tnine,0,0
+23,79,NotCompletedWithinSprint,12773137,USERGRID-382,Clean up migration code (move from Core to CP),3,tnine,5,5
+23,79,NotCompletedWithinSprint,12773139,USERGRID-383,Create Service integration tests for Import,3,greyes,5,5
+23,79,NotCompletedWithinSprint,12773142,USERGRID-384,Get import to work on a distributed system,4,null,3,3
+23,79,NotCompletedWithinSprint,12773143,USERGRID-385,Change import/export format to support multiple collections,3,tnine,5,5
+23,79,NotCompletedWithinSprint,12773144,USERGRID-386,Change the path for getting status for Import job,3,tnine,2,2
+23,79,NotCompletedWithinSprint,12773617,USERGRID-387,Migrate Import service tests to rest tests to better emulate end to end testing,4,greyes,0,0
+23,79,NotCompletedWithinSprint,12773967,USERGRID-388,Fix Import Resource endpoint to use services to lookup import information,3,tnine,3,3
+23,79,NotCompletedWithinSprint,12774719,USERGRID-390,Issues with paging in the query system need to be addressed by meaningful changes,3,tnine,8,8
+23,79,NotCompletedWithinSprint,12775418,USERGRID-391,Change log message level from log to debug,3,djohnson,0,0
+23,79,NotCompletedWithinSprint,12775419,USERGRID-392,Could not retrieve unique value for field name  unable to verify,3,tnine,0,0
+23,79,NotCompletedWithinSprint,12775696,USERGRID-393,Create Batch Spike for Elastic Search (Todd),3,safeldm,0,5
+23,79,CompletedInNotherSprint,12765760,USERGRID-320,Add more meaningful query logic tests,3,rbridges,0,0
+23,82,Completed,12760812,USERGRID-273,5 Cleanup test harness and create a more declarative test framework,3,djohnson,0,8
+23,82,Completed,12761469,USERGRID-279,Update Browser Compatibility to work with new REST test framework,3,rockerston,0,0
+23,82,Completed,12761470,USERGRID-280,Implement Admin User methods in Management Class for REST tests,3,greyes,3,3
+23,82,Completed,12761799,USERGRID-294,move cleanup to before tests run in stack,3,tnine,5,5
+23,82,Completed,12766540,USERGRID-323,Implement Windows phone push notifications,3,safeldm,0,0
+23,82,Completed,12766562,USERGRID-326,Fix PartialUpdateTest by integrating it with new REST test framework.,3,rbridges,0,0
+23,82,Completed,12766563,USERGRID-327,Fix DuplicateNameIT test by integrating it with new REST test framework,3,rbridges,0,0
+23,82,Completed,12766566,USERGRID-330,Fix GeoPagingTest cast issue,3,djohnson,0,0
+23,82,Completed,12766569,USERGRID-331,Fix AdminEmailEncodingIT by integrating it with new REST test framework,3,rbridges,0,0
+23,82,Completed,12766571,USERGRID-333,Fix ApplicationResourceIT,3,djohnson,3,3
+23,82,Completed,12770127,USERGRID-365,Optimize Entity Storage,3,safeldm,0,0
+23,82,Completed,12770129,USERGRID-366,Eliminate 2 network calls for non optimistic transaction writes,3,safeldm,0,0
+23,82,Completed,12771825,USERGRID-374,Get basic import collections with connections work,3,djohnson,0,0
+23,82,Completed,12771827,USERGRID-376,Test that you can update entities by importing,3,djohnson,0,0
+23,82,Completed,12771828,USERGRID-377,Implement error handling for import and put tests in place to verify,3,tnine,0,0
+23,82,Completed,12773132,USERGRID-381,3 Change serialization format that is used to store entities in Cassandra,3,tnine,0,3
+23,82,Completed,12773137,USERGRID-382,Clean up migration code (move from Core to CP),3,tnine,5,3
+23,82,Completed,12773143,USERGRID-385,Change import/export format to support multiple collections,3,tnine,5,5
+23,82,Completed,12773144,USERGRID-386,Change the path for getting status for Import job,3,tnine,2,2
+23,82,Completed,12773967,USERGRID-388,Fix Import Resource endpoint to use services to lookup import information,3,tnine,3,3
+23,82,Completed,12775418,USERGRID-391,Change log message level from log to debug,3,djohnson,0,0
+23,82,Completed,12775419,USERGRID-392,Could not retrieve unique value for field name  unable to verify,3,tnine,0,0
+23,82,Completed,12775696,USERGRID-393,Create Batch Spike for Elastic Search (Todd),3,safeldm,5,3
+23,82,Completed,12776885,USERGRID-409,Enable system properties for customizable keyspaces,3,greyes,8,3
+23,82,Completed,12777225,USERGRID-412,Random Tasks  add tasks to comments with time,3,safeldm,5,5
+23,82,Completed,12777731,USERGRID-418,"Fix system/database/setup to swallow ""test-app"" already exists error.",3,greyes,5,5
+23,82,Punted,12775927,USERGRID-395,Reset Superuser password -> Create flag to set superuser access to usergrid instances,3,greyes,0,5
+23,82,Punted,12775983,USERGRID-398,Create interface layout of new graph traversal read framework and write initial tests,4,null,0,3
+23,82,Punted,12775984,USERGRID-399,Create interfaces for results processing and write intial tests,4,null,3,3
+23,82,Punted,12775985,USERGRID-400,Implement read interfaces,4,null,5,5
+23,82,Punted,12775986,USERGRID-401,Implement write interfaces,4,null,5,5
+23,82,Punted,12775988,USERGRID-403,Migrate counters from Hector to Datastax Java Driver,2,mrusso,0,3
+23,82,Punted,12776240,USERGRID-405,Fix hotspot from continuous writes of entities (Shawn),3,tnine,5,5
+23,82,Punted,12777327,USERGRID-414,Set Build Version to Java 8,3,null,0,8
+23,82,Punted,12778860,USERGRID-443,Implement Windows Raw Push Notifications for 1.0,2,safeldm,3,3
+23,82,CompletedInNotherSprint,12773139,USERGRID-383,Create Service integration tests for Import,3,greyes,5,5
+23,83,Completed,12769172,USERGRID-361,Create REST test for app delete,3,djohnson,2,2
+23,83,Completed,12776240,USERGRID-405,Fix hotspot from continuous writes of entities (Shawn),3,tnine,1,1
+23,83,Completed,12777406,USERGRID-415,Consider Not Logging this Exception,3,greyes,1,1
+23,83,Completed,12777675,USERGRID-416,SPIKE: Profile Usergrid Search,3,tnine,3,3
+23,83,Completed,12778253,USERGRID-432,Remove redundant createIndex calls,3,safeldm,3,3
+23,83,Completed,12778860,USERGRID-443,Implement Windows Raw Push Notifications for 1.0,2,safeldm,3,3
+23,83,Completed,12779459,USERGRID-454,Add metrics to cassandra and ES calls,3,greyes,5,5
+23,83,Completed,12779656,USERGRID-456,Change ElasticSearch mapping behavior to be per index,1,tnine,3,3
+23,83,Completed,12780409,USERGRID-461,Cursor grows as our number of indexes grow,3,tnine,0,5
+23,83,Completed,12780521,USERGRID-465,Fix remaining graphite timers in CpEntityManager,3,greyes,1,1
+23,83,NotCompletedWithinSprint,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,2,2
+23,83,NotCompletedWithinSprint,12766594,USERGRID-348,Update ExportResourceIT to new REST test framework,4,greyes,3,3
+23,83,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job  make sure it works,3,null,0,0
+23,83,NotCompletedWithinSprint,12774719,USERGRID-390,Issues with paging in the query system need to be addressed by meaningful changes,3,tnine,8,8
+23,83,NotCompletedWithinSprint,12775935,USERGRID-396,Create UniqueIndexCleanup tool that works with 2.0,3,greyes,3,3
+23,83,NotCompletedWithinSprint,12779087,USERGRID-448,Remove redundant appinfos collections in ManagementServiceImpl,3,djohnson,3,3
+23,83,NotCompletedWithinSprint,12779224,USERGRID-452,Upgrade to Java 8 ,3,null,0,0
+23,83,NotCompletedWithinSprint,12780559,USERGRID-466,Rejected ES Index jobs are dropped.  ,1,tnine,5,5
+23,83,NotCompletedWithinSprint,12780988,USERGRID-472,fix array type index issue when types alternate,3,safeldm,0,0
+23,83,NotCompletedWithinSprint,12781036,USERGRID-473,Add Dead Letter Queue,3,jeffreyawest,0,0
+23,83,Punted,12766560,USERGRID-324,[SPIKE] Prototype a few distributed realtime parallel processing systems,4,null,8,8
+23,83,Punted,12778881,USERGRID-444,Test Remove routing by Entity Id in ES,4,null,3,3
+23,83,Punted,12780903,USERGRID-469,[FIXED?] Investigate using a new TimeUUID as our routing value,3,null,0,0
+23,97,Completed,12775935,USERGRID-396,Create UniqueIndexCleanup tool that works with 2.0,3,greyes,3,3
+23,97,Completed,12780421,USERGRID-463,Do not create index if a write alias exists,2,safeldm,0,0
+23,97,Completed,12780559,USERGRID-466,Rejected ES Index jobs are dropped.  ,1,tnine,5,5
+23,97,Completed,12780988,USERGRID-472,fix array type index issue when types alternate,3,safeldm,0,0
+23,97,Completed,12781312,USERGRID-474,Update cloudformation to use dedicated elasticsearch master nodes,3,tnine,1,1
+23,97,Completed,12781318,USERGRID-475,Monitoring Metrics: Add Metrics to low levels of cass and es,3,safeldm,0,0
+23,97,Completed,12781319,USERGRID-476,Durability of entity writes / Write problem - entities are not necessarily persisted.  Could this be on the unique entity fix?,3,safeldm,0,0
+23,97,Completed,12781526,USERGRID-478,Put entity cleanup and entity delete tasks back to delete by batch.,3,tnine,3,3
+23,97,Completed,12781528,USERGRID-479,CLONE - Could not retrieve unique value for field name  unable to verify,3,safeldm,3,3
+23,97,Completed,12782246,USERGRID-484,Introduce doc_values,3,safeldm,0,0
+23,97,NotCompletedWithinSprint,12693213,USERGRID-70,Geo-location queries with more than two parameters return only the first page of data,4,greyes,0,0
+23,97,NotCompletedWithinSprint,12768139,USERGRID-352,Go over import job  make sure it works,3,null,0,0
+23,97,NotCompletedWithinSprint,12774719,USERGRID-390,Issues with paging in the query system need to be addressed by meaningful changes,3,tnine,8,8
+23,97,NotCompletedWithinSprint,12779087,USERGRID-448,Remove redundant appinfos collections in ManagementServiceImpl,3,djohnson,3,3
+23,97,NotCompletedWithinSprint,12779224,USERGRID-452,Upgrade to Java 8 ,3,null,0,0
+23,97,NotCompletedWithinSprint,12780349,USERGRID-460,Geospatial/Geolocation query results are not sorted by distance,4,greyes,0,0
+23,97,NotCompletedWithinSprint,12781322,USERGRID-477,ES is having stability issues with high data volumes,3,null,0,0
+23,97,NotCompletedWithinSprint,12781862,USERGRID-480,Enable doc values in our index writes,2,safeldm,0,0
+23,97,NotCompletedWithinSprint,12782241,USERGRID-482,Change dynamic mapping to static ,3,safeldm,0,0
+23,97,NotCompletedWithinSprint,12782245,USERGRID-483,Change index structure to single index for many apps,3,safeldm,0,0
+23,97,NotCompletedWithinSprint,12782253,USERGRID-485,2.1 - Rest Tests Must Pass,1,djohnson,0,0
+23,97,Punted,12766560,USERGRID-324,[SPIKE] Prototype a few distributed realtime parallel processing systems,4,null,8,8
+23,98,Completed,12766573,USERGRID-335,Test Not Passing: CollectionsResourceIT,3,greyes,2,2
+23,98,Completed,12766578,USERGRID-338,Fix OwnershipResourceIT,3,greyes,0,1
+23,98,Completed,12766581,USERGRID-341,Fix BrowserCompatibilityTest,3,greyes,0,3
+23,98,Completed,12766588,USERGRID-345,Fix RetrieveUsersTest,3,greyes,0,1
+23,98,Completed,12766591,USERGRID-347,Fix AccessTokenIT,3,greyes,3,3
+23,98,Completed,12777327,USERGRID-414,Set Build Version to Java 8,3,null,3,3
+23,98,Completed,12779200,USERGRID-451,Upgrade rx to latest version,3,tnine,3,3
+23,98,Completed,12780349,USERGRID-460,Geospatial/Geolocation query results are not sorted by distance,4,greyes,0,3
+23,98,Completed,12781862,USERGRID-480,Enable doc values in our index writes,2,safeldm,0,0
+23,98,Completed,12782245,USERGRID-483,Change index structure to single index for many apps,3,safeldm,0,0
+23,98,Completed,12782589,USERGRID-486,Create a load testing framework for the query module,3,tnine,0,5
+23,98,Completed,12782833,USERGRID-490,Update index aliases to be created atomically,3,tnine,1,1
+23,98,Completed,12783035,USERGRID-492,When a newer version of an entity appears before a previous version in candidate results  it is not correctly removed,3,tnine,0,0
+23,98,Completed,12783036,USERGRID-493,Refactor jersey resource calls in rest test framework to use generics.,3,greyes,5,3
+23,98,Completed,12784976,USERGRID-502,Convert BasicIT over to new rest test framework,3,greyes,2,2
+23,98,NotCompletedWithinSprint,12766594,USERGRID-348,Update ExportResourceIT to new REST test framework,4,greyes,3,3
+23,98,NotCompletedWithinSprint,12779087,USERGRID-448,Remove redundant appinfos collections in ManagementServiceImpl,3,djohnson,3,3
+23,98,NotCompletedWithinSprint,12782940,USERGRID-491,Create app has stopped returning new apps,3,djohnson,3,3
+23,98,NotCompletedWithinSprint,12783059,USERGRID-494,More than 10 apps will not be returned for organizations,2,tnine,5,5
+23,98,NotCompletedWithinSprint,12784871,USERGRID-501,Create migration strategy from multiple index to single indexes,3,safeldm,0,0
+23,98,NotCompletedWithinSprint,12785284,USERGRID-509,Cardinality of the EntityCollectionManager is incorrect and may need refactored,3,tnine,0,0
+23,98,Punted,12766560,USERGRID-324,[SPIKE] Prototype a few distributed realtime parallel processing systems,4,null,8,8
+23,98,Punted,12778881,USERGRID-444,Test Remove routing by Entity Id in ES,4,null,3,3
+23,103,Completed,12779087,USERGRID-448,Remove redundant appinfos collections in ManagementServiceImpl,3,djohnson,3,3
+23,103,Completed,12783059,USERGRID-494,More than 10 apps will not be returned for organizations,2,tnine,1,1
+23,103,Completed,12784871,USERGRID-501,Create migration strategy from multiple index to single indexes,3,safeldm,8,8
+23,103,Completed,12785297,USERGRID-511,Refactor current collection and connection code to quickly fix our current read issues,1,tnine,3,3
+23,103,NotCompletedWithinSprint,12785284,USERGRID-509,Cardinality of the EntityCollectionManager is incorrect and may need refactored,3,tnine,5,5
+23,103,NotCompletedWithinSprint,12785286,USERGRID-510,Write/Review Test Framework Guide,3,greyes,3,3
+23,103,Punted,12766576,USERGRID-336,Fix ContentTypeResourceIT,3,rbridges,3,3
+23,103,Punted,12766580,USERGRID-340,Fix RegistrationIT,3,rbridges,2,2
+23,103,Punted,12766583,USERGRID-342,Fix AdminEmailEncodingIT,3,rbridges,1,1
+23,103,Punted,12782688,USERGRID-488,500 Error Message on PUT: version is required to be set for an update operation,3,greyes,5,5
+23,103,Punted,12785235,USERGRID-505,Under Load: NullPointerException: version is required to be set for an update operation,3,greyes,5,5
+23,103,Punted,12785526,USERGRID-515,[SPIKE] Creating collections in the portal throws an error,3,rbridges,5,5
+23,103,Punted,12785599,USERGRID-516,BaaS Queries returning Entities which do not match the input Query,3,jeffreyawest,3,3
+23,103,Punted,12785626,USERGRID-518,Update copyright in footer of Portal to 2015,4,rbridges,1,1
+23,103,Punted,12787054,USERGRID-525,During migration AllApplicationsObservable only returns 2 of 4 apps,4,null,0,0
+23,103,Punted,12787389,USERGRID-530,Deleting a connection to an Asset should not delete the Asset's data,3,djohnson,0,1
+23,107,Completed,12777978,USERGRID-424,Change AppInfo lookup to use Cassandra,3,djohnson,0,0
+23,107,Completed,12782940,USERGRID-491,Create app has stopped returning new apps,3,djohnson,3,3
+23,107,Completed,12785284,USERGRID-509,Cardinality of the EntityCollectionManager is incorrect and may need refactored,3,tnine,5,5
+23,107,Completed,12787364,USERGRID-529,iOS Push Notification Errors,3,safeldm,0,3
+23,107,Completed,12787389,USERGRID-530,Deleting a connection to an Asset should not delete the Asset's data,3,djohnson,1,1
+23,107,Completed,12787404,USERGRID-533,REST Test for Create App not returning,3,djohnson,2,2
+23,107,Completed,12787408,USERGRID-535,[SPIKE] Look into broken tests and open tickets,3,safeldm,3,3
+23,107,Completed,12788088,USERGRID-539,Test Not Passing: CPHeadEntityNull in Services tests,3,safeldm,0,3
+23,107,Completed,12788089,USERGRID-540,Test Not Passing: EntityManagerFactoryImplIT.testDeleteApplication ,3,djohnson,0,0
+23,107,Completed,12788136,USERGRID-542,Have Export output password hashes in 1.0,3,greyes,5,5
+23,107,Completed,12818755,USERGRID-549,Refactor Org app relationship to remove app info object and use graph to application object,3,safeldm,3,1
+23,107,NotCompletedWithinSprint,12766576,USERGRID-336,Fix ContentTypeResourceIT,3,rbridges,3,3
+23,107,NotCompletedWithinSprint,12766580,USERGRID-340,Fix RegistrationIT,3,rbridges,2,2
+23,107,NotCompletedWithinSprint,12766583,USERGRID-342,Fix AdminEmailEncodingIT,3,rbridges,1,1
+23,107,NotCompletedWithinSprint,12785286,USERGRID-510,Write/Review Test Framework Guide,3,greyes,3,3
+23,107,NotCompletedWithinSprint,12785526,USERGRID-515,[SPIKE] Creating collections in the portal throws an error,3,rbridges,3,3
+23,107,NotCompletedWithinSprint,12785626,USERGRID-518,Update copyright in footer of Portal to 2015,4,rbridges,1,1
+23,107,NotCompletedWithinSprint,12787413,USERGRID-536,Change our index structure for static mapping and cleanup api,2,tnine,8,2
+23,107,NotCompletedWithinSprint,12787875,USERGRID-538,Improve uncaught errors' http response,4,senthilkumar.kj,1,1
+23,107,NotCompletedWithinSprint,12818647,USERGRID-548,Allow Export to output admin password hashes,3,greyes,5,5
+23,107,NotCompletedWithinSprint,12818972,USERGRID-550,Create migration for app infos into new format,3,safeldm,0,0
+23,107,Punted,12785235,USERGRID-505,Under Load: NullPointerException: version is required to be set for an update operation,3,greyes,5,5
+23,107,Punted,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,107,Punted,12787407,USERGRID-534, Load Test with 2.1,3,jeffreyawest,3,3
+23,109,Completed,12785286,USERGRID-510,Write/Review Test Framework Guide,3,greyes,1,1
+23,109,Completed,12787875,USERGRID-538,Improve uncaught errors' http response,4,senthilkumar.kj,1,1
+23,109,Completed,12788091,USERGRID-541,Change the current relation manager impl to and create indexing interface,3,tnine,5,5
+23,109,Completed,12818647,USERGRID-548,Allow Export to output admin password hashes,3,greyes,5,5
+23,109,Completed,12818972,USERGRID-550,Create migration for app infos into new format,3,safeldm,1,1
+23,109,Completed,12819448,USERGRID-563,[SPIKE] Ability for one Usergrid instance to delegate authentication to another ,3,djohnson,3,3
+23,109,Completed,12820068,USERGRID-567,Validate External Token for Usergrid Central SSO,3,djohnson,0,5
+23,109,Completed,12821289,USERGRID-568,Fix push issues close connection issues,3,safeldm,8,3
+23,109,NotCompletedWithinSprint,12766576,USERGRID-336,Fix ContentTypeResourceIT,3,rbridges,1,1
+23,109,NotCompletedWithinSprint,12766580,USERGRID-340,Fix RegistrationIT,3,rbridges,1,1
+23,109,NotCompletedWithinSprint,12766583,USERGRID-342,Fix AdminEmailEncodingIT,3,rbridges,1,1
+23,109,NotCompletedWithinSprint,12785526,USERGRID-515,[SPIKE] Creating collections in the portal throws an error,3,rbridges,3,3
+23,109,NotCompletedWithinSprint,12785626,USERGRID-518,Update copyright in footer of Portal to 2015,4,rbridges,1,1
+23,109,NotCompletedWithinSprint,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,109,NotCompletedWithinSprint,12787407,USERGRID-534, Load Test with 2.1,3,jeffreyawest,3,3
+23,109,NotCompletedWithinSprint,12787413,USERGRID-536,Change our index structure for static mapping and cleanup api,2,tnine,2,2
+23,109,NotCompletedWithinSprint,12788353,USERGRID-544,[SPIKE] Deadletter - Figure out why some entities are having indexing problems,4,null,3,3
+23,109,NotCompletedWithinSprint,12819080,USERGRID-551,[SPIKE] Cross-collection / graph filtering does not work,3,null,5,5
+23,109,NotCompletedWithinSprint,12819097,USERGRID-555,Test Migration of Entity Versions,3,mrusso,3,3
+23,109,NotCompletedWithinSprint,12819100,USERGRID-556,Update Index prefix for management app to use the cassandra keyspace name,2,safeldm,5,5
+23,109,NotCompletedWithinSprint,12819379,USERGRID-561,Portal appears to hang when it gets a 401,2,rbridges,3,3
+23,109,NotCompletedWithinSprint,12821910,USERGRID-578,ES Cursors not working in 2.1,3,safeldm,3,3
+23,109,Punted,12819091,USERGRID-552,Make number of shards for map configurable,4,null,1,1
+23,109,Punted,12819092,USERGRID-553,Modify graph edges to use buckets per shard,4,null,5,5
+23,109,Punted,12821874,USERGRID-575,Disable Admin User signups when external token validation enabled,3,djohnson,3,3
+23,114,Completed,12766576,USERGRID-336,Fix ContentTypeResourceIT,3,rbridges,1,1
+23,114,Completed,12766580,USERGRID-340,Fix RegistrationIT,3,rbridges,1,1
+23,114,Completed,12766583,USERGRID-342,Fix AdminEmailEncodingIT,3,rbridges,1,1
+23,114,Completed,12785526,USERGRID-515,[SPIKE] Creating collections in the portal throws an error,3,rbridges,3,1
+23,114,Completed,12785626,USERGRID-518,Update copyright in footer of Portal to 2015,4,rbridges,1,1
+23,114,Completed,12787413,USERGRID-536,Change our index structure for static mapping and cleanup api,2,tnine,2,2
+23,114,Completed,12819379,USERGRID-561,Portal appears to hang when it gets a 401,2,rbridges,3,1
+23,114,Completed,12821910,USERGRID-578,ES Cursors not working in 2.1,3,safeldm,3,3
+23,114,Completed,12822812,USERGRID-582,Test Not Passing: CollectionIT Tests,3,safeldm,3,3
+23,114,Completed,12822825,USERGRID-588,Test and confirm Raw Push Notifications on Windows,3,safeldm,0,3
+23,114,Completed,12823134,USERGRID-592,[SPIKE] Investigate support for Central Usergrid SSO in the Portal,3,djohnson,5,3
+23,114,Completed,12823464,USERGRID-593,Implement Read by Graph Edges for no Query,1,tnine,5,5
+23,114,NotCompletedWithinSprint,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,114,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,114,Punted,12821875,USERGRID-576,Add metrics to external token validation endpoint,3,djohnson,3,3
+23,114,Punted,12822814,USERGRID-583,Test Document Routing using External Test,3,null,0,0
+23,114,Punted,12822816,USERGRID-585,Test migration from old index format to new,3,mrusso,0,0
+23,114,Punted,12822817,USERGRID-586,Test app_info migration,3,safeldm,0,0
+23,114,Punted,12822826,USERGRID-589,Complete SNS/SQS async indexing api,3,jeffreyawest,2,2
+23,114,CompletedInNotherSprint,12822481,USERGRID-581,Implement ability to createItemInCollection using the graph.,3,greyes,3,3
+23,123,Completed,12822814,USERGRID-583,Test Document Routing using External Test,3,null,0,0
+23,123,Completed,12825693,USERGRID-601,Test Usergrid Central SSO,3,djohnson,3,3
+23,123,Completed,12825695,USERGRID-602,Test Import / Export of Admin Users,3,djohnson,2,2
+23,123,Completed,12825707,USERGRID-606,Implement Async Indexing on New Edge,3,tnine,1,1
+23,123,Completed,12825713,USERGRID-609,Document the new IO framework,3,greyes,2,2
+23,123,NotCompletedWithinSprint,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,123,NotCompletedWithinSprint,12821578,USERGRID-572,Add a query parameter to enable the hiding of sensitive information in API resposnes,2,senthilkumar.kj,1,1
+23,123,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,123,Punted,12821875,USERGRID-576,Add metrics to external token validation endpoint,3,djohnson,3,3
+23,123,Punted,12822815,USERGRID-584,Test Not Passing: staleIndexCleanup,3,greyes,0,0
+23,123,Punted,12822822,USERGRID-587,Test Not Passing: IteratingQueryIT + collectionIT,3,tnine,5,5
+23,123,Punted,12825703,USERGRID-604,Spike: Core test suite should complete in Maven,3,null,8,5
+23,123,Punted,12825709,USERGRID-607,Implement Deleting Edge out of index,3,greyes,3,3
+23,123,Punted,12825710,USERGRID-608,Refactor/Complete Delete Entity in 2.1,3,greyes,5,5
+23,123,Punted,12827334,USERGRID-614,Refactor compaction operations to be declarative in 2.1,3,tnine,3,3
+23,124,Completed,12827334,USERGRID-614,Refactor compaction operations to be declarative in 2.1,3,tnine,3,3
+23,124,Completed,12827487,USERGRID-621,Test Not Passing: InMemoryAsyncIndexServiceTest,3,safeldm,2,2
+23,124,Completed,12827488,USERGRID-622,Test Not Passing: IndexServiceTest,3,safeldm,2,2
+23,124,Completed,12827489,USERGRID-623,Test Not Passing: AllEntitiesInSystemObservableIT,3,safeldm,2,2
+23,124,Completed,12827490,USERGRID-624,Test Not Passing: MessagesIT,3,safeldm,2,2
+23,124,Completed,12827491,USERGRID-625,Test Not Passing: CountingMutatorIT,3,safeldm,2,2
+23,124,Completed,12827492,USERGRID-626,Test Not Passing: EntityDictionaryIT,3,safeldm,2,2
+23,124,Completed,12827495,USERGRID-629,Test Not Passing: GeoQueryBooleanTest,3,safeldm,2,2
+23,124,Completed,12827496,USERGRID-630,Test Not Passing: IndexIT,3,safeldm,2,2
+23,124,Completed,12827498,USERGRID-631,Test Not Passing: PathQueryIT,3,safeldm,2,2
+23,124,Completed,12827502,USERGRID-635,Test Not Passing: IntersectionTransitivePagingIT,3,safeldm,2,2
+23,124,Completed,12827503,USERGRID-636,Test Not Passing: IntersectionUnionPagingIT,3,safeldm,2,2
+23,124,Completed,12827504,USERGRID-637,Test Not Passing: NotSubPropertyIT,3,safeldm,2,2
+23,124,Completed,12828156,USERGRID-642,Test Not Passing: StaleIndexCleanup Failing due to old version getting returned from search,3,safeldm,3,3
+23,124,Completed,12828486,USERGRID-644,Test Not Passing: IteratingQueryIt failing due to bad serializer,3,tnine,2,2
+23,124,NotCompletedWithinSprint,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,124,NotCompletedWithinSprint,12821578,USERGRID-572,Add a query parameter to enable the hiding of sensitive information in API resposnes,2,senthilkumar.kj,1,1
+23,124,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,124,NotCompletedWithinSprint,12825709,USERGRID-607,Implement Deleting Edge out of index,3,greyes,3,3
+23,124,NotCompletedWithinSprint,12825710,USERGRID-608,Refactor/Complete Delete Entity in 2.1,3,greyes,5,5
+23,124,NotCompletedWithinSprint,12827397,USERGRID-616,Queries using greater/less than on float fields fail,4,null,3,3
+23,124,NotCompletedWithinSprint,12827399,USERGRID-617,Queries using order by on float fields result in incorrect ordering ,4,null,3,3
+23,124,NotCompletedWithinSprint,12827402,USERGRID-618,Additional testing of Usergrid SSO,3,djohnson,3,3
+23,124,NotCompletedWithinSprint,12827493,USERGRID-627,Test Not Passing: EntityManagerIT,3,safeldm,2,2
+23,124,NotCompletedWithinSprint,12827494,USERGRID-628,Test Not Passing: GeoIT,3,tnine,2,2
+23,124,NotCompletedWithinSprint,12827499,USERGRID-632,Test Not Passing: PerformanceEntityRebuildIndexTest,3,rbridges,2,2
+23,124,NotCompletedWithinSprint,12827500,USERGRID-633,Test Not Passing: PermissionsIT,3,rbridges,2,2
+23,124,NotCompletedWithinSprint,12827501,USERGRID-634,Test Not Passing: EntityManagerFactoryImplIT,3,safeldm,2,2
+23,124,NotCompletedWithinSprint,12827797,USERGRID-639,Entity does not return from collection when ql=select *,3,null,3,3
+23,124,NotCompletedWithinSprint,12828055,USERGRID-640,Entities created on the portal during 'create collection' do not get persisted,3,rbridges,0,0
+23,124,NotCompletedWithinSprint,12828153,USERGRID-641,Implement search by connections in core,3,tnine,3,3
+23,124,NotCompletedWithinSprint,12828159,USERGRID-643,Implement Reindex By Collection,3,tnine,3,3
+23,124,Punted,12828879,USERGRID-645,Update superuser to allow all system access,3,mdunker,3,3
+23,125,Completed,12829406,USERGRID-655,More than one connection does not get created when running batch index on connection edges,3,greyes,3,3
+23,125,Completed,12829616,USERGRID-657,Graph deletes not going through. ,3,greyes,3,3
+23,125,Completed,12829621,USERGRID-659,Test Not Passing: OrganizationIT Failing,3,safeldm,3,3
+23,125,Completed,12829622,USERGRID-660,Test Not Passing: GroupServiceIT - Services,3,safeldm,3,1
+23,125,Completed,12829623,USERGRID-661,Test Not Passing: ServiceInvocationIT,3,safeldm,3,1
+23,125,Completed,12829626,USERGRID-663,Test Not Passing: ConnectionsServiceIT,3,safeldm,1,1
+23,125,NotCompletedWithinSprint,12822160,USERGRID-579,Exception when trying to post/retrieve an asset from Amazon S3,3,djohnson,3,3
+23,125,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,125,NotCompletedWithinSprint,12825709,USERGRID-607,Implement Deleting Edge out of index,3,greyes,1,1
+23,125,NotCompletedWithinSprint,12825710,USERGRID-608,Refactor/Complete Delete Entity in 2.1,3,greyes,5,5
+23,125,NotCompletedWithinSprint,12827397,USERGRID-616,Queries using greater/less than on float fields fail,4,null,3,3
+23,125,NotCompletedWithinSprint,12827399,USERGRID-617,Queries using order by on float fields result in incorrect ordering ,4,null,3,3
+23,125,NotCompletedWithinSprint,12827402,USERGRID-618,Additional testing of Usergrid SSO,3,djohnson,3,3
+23,125,NotCompletedWithinSprint,12827499,USERGRID-632,Test Not Passing: PerformanceEntityRebuildIndexTest,3,rbridges,2,1
+23,125,NotCompletedWithinSprint,12828055,USERGRID-640,Entities created on the portal during 'create collection' do not get persisted,3,rbridges,3,3
+23,125,NotCompletedWithinSprint,12828153,USERGRID-641,Implement search by connections in core,3,tnine,3,3
+23,125,NotCompletedWithinSprint,12828159,USERGRID-643,Implement Reindex By Collection,3,tnine,3,3
+23,125,NotCompletedWithinSprint,12829624,USERGRID-662,Test Not Passing: AppInfoMigrationPluginTest,3,safeldm,3,1
+23,125,NotCompletedWithinSprint,12829627,USERGRID-664,Test Not Passing: RolesServiceIT.deleteRoles,3,greyes,1,1
+23,125,NotCompletedWithinSprint,12830227,USERGRID-669,Update edge and type naming conventions,3,tnine,1,1
+23,125,NotCompletedWithinSprint,12831192,USERGRID-672,Portal stores the password of an app user after it is created in clear-text,3,rbridges,0,3
+23,125,CompletedInNotherSprint,12821578,USERGRID-572,Add a query parameter to enable the hiding of sensitive information in API resposnes,2,senthilkumar.kj,1,1
+23,126,Completed,12828153,USERGRID-641,Implement search by connections in core,3,tnine,3,3
+23,126,Completed,12828159,USERGRID-643,Implement Reindex By Collection,3,tnine,3,3
+23,126,Completed,12831192,USERGRID-672,Portal stores the password of an app user after it is created in clear-text,3,rbridges,3,3
+23,126,Completed,12831990,USERGRID-677,Create new parser for Scrolling api,3,greyes,3,1
+23,126,NotCompletedWithinSprint,12822815,USERGRID-584,Test Not Passing: staleIndexCleanup,3,greyes,1,1
+23,126,NotCompletedWithinSprint,12822822,USERGRID-587,Test Not Passing: IteratingQueryIT + collectionIT,3,tnine,1,1
+23,126,NotCompletedWithinSprint,12822826,USERGRID-589,Complete SNS/SQS async indexing api,3,jeffreyawest,3,3
+23,126,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,126,NotCompletedWithinSprint,12825709,USERGRID-607,Implement Deleting Edge out of index,3,greyes,1,1
+23,126,NotCompletedWithinSprint,12825710,USERGRID-608,Refactor/Complete Delete Entity in 2.1,3,greyes,2,2
+23,126,NotCompletedWithinSprint,12826154,USERGRID-612,Test Not Passing:  EntityConnectionsIT,3,tnine,3,3
+23,126,NotCompletedWithinSprint,12827397,USERGRID-616,Queries using greater/less than on float fields fail,4,null,3,3
+23,126,NotCompletedWithinSprint,12827399,USERGRID-617,Queries using order by on float fields result in incorrect ordering ,4,null,3,3
+23,126,NotCompletedWithinSprint,12827402,USERGRID-618,Additional testing of Usergrid SSO,3,djohnson,3,3
+23,126,NotCompletedWithinSprint,12827493,USERGRID-627,Test Not Passing: EntityManagerIT,3,safeldm,1,1
+23,126,NotCompletedWithinSprint,12827494,USERGRID-628,Test Not Passing: GeoIT,3,tnine,1,1
+23,126,NotCompletedWithinSprint,12827499,USERGRID-632,Test Not Passing: PerformanceEntityRebuildIndexTest,3,rbridges,1,1
+23,126,NotCompletedWithinSprint,12827500,USERGRID-633,Test Not Passing: PermissionsIT,3,rbridges,1,1
+23,126,NotCompletedWithinSprint,12827501,USERGRID-634,Test Not Passing: EntityManagerFactoryImplIT,3,safeldm,1,1
+23,126,NotCompletedWithinSprint,12828055,USERGRID-640,Entities created on the portal during 'create collection' do not get persisted,3,rbridges,3,3
+23,126,NotCompletedWithinSprint,12829624,USERGRID-662,Test Not Passing: AppInfoMigrationPluginTest,3,safeldm,1,1
+23,126,NotCompletedWithinSprint,12829627,USERGRID-664,Test Not Passing: RolesServiceIT.deleteRoles,3,greyes,1,1
+23,126,NotCompletedWithinSprint,12830227,USERGRID-669,Update edge and type naming conventions,3,tnine,1,1
+23,126,NotCompletedWithinSprint,12831984,USERGRID-676,"Update mapping to use ""dynamic"": ""strict"" to prevent new fields from being added dynamically",3,jeffreyawest,0,1
+23,126,NotCompletedWithinSprint,12832419,USERGRID-678,ElasticSearch Type Mapping has _all in wrong place,3,jeffreyawest,1,1
+23,126,NotCompletedWithinSprint,12832777,USERGRID-680,Merge master -> two-dot-o: SSO & Assets changes,3,djohnson,0,3
+23,126,Punted,12830451,USERGRID-670,App Credentials do not work when accessing a collection within an app (2.0),3,greyes,5,5
+23,126,Punted,12830453,USERGRID-671,401 ServiceResourceNotFoundException instead of expected 404,3,greyes,2,2
+23,126,CompletedInNotherSprint,12826102,USERGRID-610,Core Tests...,3,rbridges,0,0
+23,129,Completed,12822815,USERGRID-584,Test Not Passing: staleIndexCleanup,3,greyes,1,1
+23,129,Completed,12822822,USERGRID-587,Test Not Passing: IteratingQueryIT + collectionIT,3,tnine,1,1
+23,129,Completed,12822826,USERGRID-589,Complete SNS/SQS async indexing api,3,jeffreyawest,3,3
+23,129,Completed,12825709,USERGRID-607,Implement Deleting Edge out of index,3,greyes,1,1
+23,129,Completed,12825710,USERGRID-608,Refactor/Complete Delete Entity in 2.1,3,greyes,2,2
+23,129,Completed,12826154,USERGRID-612,Test Not Passing:  EntityConnectionsIT,3,tnine,3,3
+23,129,Completed,12827493,USERGRID-627,Test Not Passing: EntityManagerIT,3,safeldm,0,0
+23,129,Completed,12827494,USERGRID-628,Test Not Passing: GeoIT,3,tnine,1,1
+23,129,Completed,12827499,USERGRID-632,Test Not Passing: PerformanceEntityRebuildIndexTest,3,rbridges,1,1
+23,129,Completed,12827500,USERGRID-633,Test Not Passing: PermissionsIT,3,rbridges,0,0
+23,129,Completed,12827501,USERGRID-634,Test Not Passing: EntityManagerFactoryImplIT,3,safeldm,1,1
+23,129,Completed,12828055,USERGRID-640,Entities created on the portal during 'create collection' do not get persisted,3,rbridges,3,3
+23,129,Completed,12829624,USERGRID-662,Test Not Passing: AppInfoMigrationPluginTest,3,safeldm,1,1
+23,129,Completed,12829627,USERGRID-664,Test Not Passing: RolesServiceIT.deleteRoles,3,greyes,1,1
+23,129,Completed,12830227,USERGRID-669,Update edge and type naming conventions,3,tnine,1,1
+23,129,Completed,12832777,USERGRID-680,Merge master -> two-dot-o: SSO & Assets changes,3,djohnson,1,1
+23,129,Completed,12833607,USERGRID-685,Test Not Passing: ConnectionsServiceIT.testEntityConnections,3,tnine,0,3
+23,129,Completed,12833839,USERGRID-686,Test Not Passing: PagingResourceIT,3,greyes,2,2
+23,129,Completed,12833872,USERGRID-687,Test Not Passing: AndOrQueryTest,3,greyes,1,1
+23,129,Completed,12833910,USERGRID-689,Test Not Passing:  ManagementResourceIT,3,safeldm,2,2
+23,129,Completed,12833912,USERGRID-690,Test Not Passing: OrganizationsIT,3,greyes,2,2
+23,129,Completed,12834249,USERGRID-693,Test Not Passing: ContentTypeResourceIT,3,greyes,2,2
+23,129,Completed,12834251,USERGRID-695,Test Not Passing: RegistrationIT,3,greyes,2,2
+23,129,Completed,12834253,USERGRID-696,AdminEmailEncodingIT,3,greyes,2,2
+23,129,Completed,12834255,USERGRID-697,Test Not Passing: AdminUsersIT,3,greyes,2,2
+23,129,Completed,12834259,USERGRID-699,Test Not Passing:  NotificationsIT.testPaging:90,3,safeldm,2,2
+23,129,Completed,12834263,USERGRID-700,Test Not Passing: StaleIndexCleanupTests,3,greyes,1,1
+23,129,Completed,12834423,USERGRID-702,Rest tests return 403 when run in maven  but pass in intelliJ,3,greyes,5,5
+23,129,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,129,NotCompletedWithinSprint,12827397,USERGRID-616,Queries using greater/less than on float fields fail,4,null,3,3
+23,129,NotCompletedWithinSprint,12827399,USERGRID-617,Queries using order by on float fields result in incorrect ordering ,4,null,3,3
+23,129,NotCompletedWithinSprint,12827402,USERGRID-618,Additional testing of Usergrid SSO,3,djohnson,3,3
+23,129,NotCompletedWithinSprint,12829400,USERGRID-652,Index Routing/Location Strategy,3,safeldm,5,5
+23,129,NotCompletedWithinSprint,12831984,USERGRID-676,"Update mapping to use ""dynamic"": ""strict"" to prevent new fields from being added dynamically",3,jeffreyawest,1,1
+23,129,NotCompletedWithinSprint,12832419,USERGRID-678,ElasticSearch Type Mapping has _all in wrong place,3,jeffreyawest,1,1
+23,129,NotCompletedWithinSprint,12834256,USERGRID-698,Test Not Passing: ConnectionResourceTest.connectionsLoopbackTest:103 NullPointer,3,tnine,2,2
+23,129,NotCompletedWithinSprint,12834750,USERGRID-704,Test Not Passing: DevicesresourceIT ,3,tnine,1,1
+23,129,Punted,12833909,USERGRID-688,Fix Graph Compact Operations.  ,3,tnine,0,3
+23,133,Completed,12781036,USERGRID-473,Add Dead Letter Queue,3,jeffreyawest,3,3
+23,133,Completed,12819100,USERGRID-556,Update Index prefix for management app to use the cassandra keyspace name,2,safeldm,5,1
+23,133,Completed,12826732,USERGRID-613,Reindex endpoint should not be case-sensitive,3,greyes,1,1
+23,133,Completed,12827402,USERGRID-618,Additional testing of Usergrid SSO,3,djohnson,3,3
+23,133,Completed,12829664,USERGRID-666,1.0.2 Release Candidate 1,3,djohnson,0,2
+23,133,Completed,12830453,USERGRID-671,401 ServiceResourceNotFoundException instead of expected 404,3,greyes,2,2
+23,133,Completed,12831984,USERGRID-676,"Update mapping to use ""dynamic"": ""strict"" to prevent new fields from being added dynamically",3,jeffreyawest,1,1
+23,133,Completed,12832419,USERGRID-678,ElasticSearch Type Mapping has _all in wrong place,3,jeffreyawest,1,1
+23,133,Completed,12834816,USERGRID-705,Add organizations to Admin User import/export (usergrid-tools.jar),3,djohnson,0,3
+23,133,Completed,12835166,USERGRID-709,Notifications disappear too quickly. Increase timeout and have them stay on mouseover,3,rbridges,2,2
+23,133,Completed,12835171,USERGRID-713,Don't modify the path when an entity is selected in the data view,3,rbridges,0,2
+23,133,Completed,12835172,USERGRID-714,Reorganize the query area on data view so that more of the data is visible,3,rbridges,0,2
+23,133,Completed,12835173,USERGRID-715,Decrease line spacing/padding so that more data is visible in list views,3,rbridges,1,1
+23,133,Completed,12835846,USERGRID-725,SNSQueueManagerImpl needs better error handling and messaging,3,jeffreyawest,1,1
+23,133,Completed,12835871,USERGRID-726,Audit and review JMX Metrics for consistency,3,jeffreyawest,2,2
+23,133,Completed,12836054,USERGRID-729,SNS Queue Manager uses ARN to read instead of URL,3,jeffreyawest,1,1
+23,133,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,133,NotCompletedWithinSprint,12829400,USERGRID-652,Index Routing/Location Strategy,3,safeldm,5,5
+23,133,NotCompletedWithinSprint,12830451,USERGRID-670,App Credentials do not work when accessing a collection within an app (2.0),3,greyes,5,5
+23,133,NotCompletedWithinSprint,12833909,USERGRID-688,Fix Graph Compact Operations.  ,3,tnine,3,5
+23,133,NotCompletedWithinSprint,12834256,USERGRID-698,Test Not Passing: ConnectionResourceTest.connectionsLoopbackTest:103 NullPointer,3,tnine,2,2
+23,133,NotCompletedWithinSprint,12834432,USERGRID-703,Test Not Passing: ManagementResourceIT,3,djohnson,2,2
+23,133,Punted,12819108,USERGRID-559,[FIXED?] Add re-index resume,3,tnine,0,0
+23,133,Punted,12822816,USERGRID-585,Test migration from old index format to new,3,mrusso,0,3
+23,133,Punted,12834826,USERGRID-706,Test re-index system,3,mrusso,0,0
+23,133,Punted,12835181,USERGRID-719,Pushy creates/leaves too many threads ,3,mrusso,0,3
+23,133,Punted,12835187,USERGRID-720,Reconcile default property settings with known-good production settings,3,mrusso,0,2
+23,133,CompletedInNotherSprint,12834247,USERGRID-692,Test Not Passing: PermissionsResourceIT,3,greyes,2,2
+23,138,Completed,12787088,USERGRID-527,Write external ES test to ensure we get even routing across the ES cluster,2,senthilkumar.kj,3,3
+23,138,Completed,12833909,USERGRID-688,Fix Graph Compact Operations.  ,3,tnine,5,5
+23,138,Completed,12834256,USERGRID-698,Test Not Passing: ConnectionResourceTest.connectionsLoopbackTest:103 NullPointer,3,tnine,2,2
+23,138,Completed,12834750,USERGRID-704,Test Not Passing: DevicesresourceIT ,3,tnine,1,1
+23,138,Completed,12835181,USERGRID-719,Pushy creates/leaves too many threads ,3,mrusso,3,3
+23,138,Completed,12836682,USERGRID-739,Implement Bucketing Algorithm for assignment of Application Index Aliases to Physical Indexes,3,safeldm,3,3
+23,138,Completed,12836984,USERGRID-742,Reindex endpoint returns NPE if a payload is not defined,3,safeldm,0,0
+23,138,Completed,12837205,USERGRID-744,Test Not Passing: ApplicationResourceIT,3,tnine,2,2
+23,138,Completed,12837208,USERGRID-746,Improve performance of ExportAdmins via multi-threading,3,djohnson,3,3
+23,138,Completed,12837221,USERGRID-747,Error with Push Queue on 2.1,3,safeldm,0,0
+23,138,Completed,12837894,USERGRID-751,Change MvccEntitySerializationStrategyV3Impl to use native JSON when storing in the column value,3,safeldm,3,3
+23,138,Completed,12838499,USERGRID-757,Exception on system/database/setup,3,safeldm,2,2
+23,138,NotCompletedWithinSprint,12822817,USERGRID-586,Test app_info migration,3,safeldm,3,3
+23,138,NotCompletedWithinSprint,12824342,USERGRID-596,Confirm PUT by Name Does not Fetch/Query ES,3,safeldm,1,1
+23,138,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,138,NotCompletedWithinSprint,12829665,USERGRID-667,1.0.2 Release Candidate 2,3,djohnson,2,2
+23,138,NotCompletedWithinSprint,12830451,USERGRID-670,App Credentials do not work when accessing a collection within an app (2.0),3,greyes,5,5
+23,138,NotCompletedWithinSprint,12834368,USERGRID-701,Rewrite Registration tests to fully cover the registration flow.,4,null,3,3
+23,138,NotCompletedWithinSprint,12834432,USERGRID-703,Test Not Passing: ManagementResourceIT,3,djohnson,2,2
+23,138,NotCompletedWithinSprint,12835187,USERGRID-720,Reconcile default property settings with known-good production settings,3,mrusso,2,2
+23,138,NotCompletedWithinSprint,12835465,USERGRID-724,JMX Metrics/Counters for Cassandra,3,safeldm,3,3
+23,138,NotCompletedWithinSprint,12836695,USERGRID-740,Temp files from asset upload not removed  causing the file system to use all inodes,2,greyes,0,0
+23,138,NotCompletedWithinSprint,12837207,USERGRID-745,Test Not Passing: AssetResourceIT,3,djohnson,1,1
+23,138,NotCompletedWithinSprint,12837264,USERGRID-748,SNS Queueing/Messaging should create RAW subscriptions,3,jeffreyawest,0,1
+23,138,NotCompletedWithinSprint,12837455,USERGRID-750,When setting accesstokenttl to 0  client credentials auth still returns 604800,4,greyes,0,0
+23,138,NotCompletedWithinSprint,12838319,USERGRID-755,MVCC serialization error on reindex,3,safeldm,0,0
+23,138,Punted,12822816,USERGRID-585,Test migration from old index format to new,3,mrusso,3,3
+23,138,Punted,12825563,USERGRID-598,Merge two-dot-o-dev into two-dot-o,3,djohnson,3,3
+23,138,Punted,12832879,USERGRID-682,Soak Testing Scripts,4,mdunker,3,3
+23,138,Punted,12834826,USERGRID-706,Test re-index system,3,mrusso,0,0
+23,138,Punted,12837904,USERGRID-752,Update Usergrid 1.0 search to use concurrent search per shard,3,tnine,8,8
+23,138,CompletedInNotherSprint,12825703,USERGRID-604,Spike: Core test suite should complete in Maven,3,null,1,1
+23,138,CompletedInNotherSprint,12829400,USERGRID-652,Index Routing/Location Strategy,3,safeldm,5,5
+23,140,Completed,12741811,USERGRID-228,Portal should not give username/password error when error was due to some other problem,3,rbridges,0,0
+23,140,Completed,12827385,USERGRID-615,Inaccurate (or lack of) error message when logging into BaaS,3,rbridges,0,0
+23,140,Completed,12829665,USERGRID-667,1.0.2 Release Candidate 2,3,djohnson,2,2
+23,140,Completed,12830451,USERGRID-670,App Credentials do not work when accessing a collection within an app (2.0),3,greyes,5,5
+23,140,Completed,12834432,USERGRID-703,Test Not Passing: ManagementResourceIT,3,djohnson,2,2
+23,140,Completed,12835165,USERGRID-708,cursor in username field on login jumps to the end with update,3,rbridges,1,1
+23,140,Completed,12835187,USERGRID-720,Reconcile default property settings with known-good production settings,3,mrusso,2,2
+23,140,Completed,12837207,USERGRID-745,Test Not Passing: AssetResourceIT,3,djohnson,1,1
+23,140,Completed,12837264,USERGRID-748,SNS Queueing/Messaging should create RAW subscriptions,3,jeffreyawest,1,1
+23,140,Completed,12838319,USERGRID-755,MVCC serialization error on reindex,3,safeldm,3,3
+23,140,Completed,12838522,USERGRID-758,Introduce Semantic Versioning in Build Artifacts,3,djohnson,0,0
+23,140,Completed,12838610,USERGRID-759,SNS Topic/Queue Implementation should use the Topics.subscribe helper methid,3,jeffreyawest,0,2
+23,140,Completed,12839157,USERGRID-760,Merge master to two-dot-o branches & rewrite tests to use new framework,3,djohnson,2,2
+23,140,Completed,12839302,USERGRID-761,Messages not getting ACK'd to SQS Queue for Indexing,3,null,0,0
+23,140,Completed,12839982,USERGRID-766,Deploy 2.1 Branch into an End-to-End (e2e) testing environment,3,mrusso,0,5
+23,140,NotCompletedWithinSprint,12822817,USERGRID-586,Test app_info migration,3,safeldm,3,3
+23,140,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,140,NotCompletedWithinSprint,12832805,USERGRID-681,Support single-region delivery of messages in 2.1,3,mrusso,3,3
+23,140,NotCompletedWithinSprint,12835174,USERGRID-716,Use combo boxes instead of text areas for inputting multiple pieces of data,3,rbridges,0,0
+23,140,NotCompletedWithinSprint,12836202,USERGRID-732,Implement SNS-based Queue Provider in 2.0,3,null,2,2
+23,140,NotCompletedWithinSprint,12837455,USERGRID-750,When setting accesstokenttl to 0  client credentials auth still returns 604800,4,greyes,3,3
+23,140,NotCompletedWithinSprint,12837904,USERGRID-752,Update Usergrid 1.0 search to use concurrent search per shard,3,tnine,5,5
+23,140,NotCompletedWithinSprint,12839980,USERGRID-764,Instance Validation Script,3,brandonshelley,0,0
+23,146,Completed,12819097,USERGRID-555,Test Migration of Entity Versions,3,mrusso,3,3
+23,146,Completed,12822816,USERGRID-585,Test migration from old index format to new,3,mrusso,3,3
+23,146,Completed,12834826,USERGRID-706,Test re-index system,3,mrusso,5,5
+23,146,Completed,12842101,USERGRID-777,Refactor App Info Migration to make it functional,3,safeldm,3,3
+23,146,Completed,12842364,USERGRID-779,Convert SNS client to use the SNSAsyncClient,3,mrusso,1,1
+23,146,Completed,12842365,USERGRID-780,Implement buffer for re-index events,3,mrusso,1,1
+23,146,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,146,NotCompletedWithinSprint,12835174,USERGRID-716,Use combo boxes instead of text areas for inputting multiple pieces of data,3,rbridges,3,3
+23,146,NotCompletedWithinSprint,12835465,USERGRID-724,JMX Metrics/Counters for Cassandra,3,safeldm,3,3
+23,146,NotCompletedWithinSprint,12836202,USERGRID-732,Implement SNS-based Queue Provider in 2.0,3,null,2,2
+23,146,NotCompletedWithinSprint,12837904,USERGRID-752,Update Usergrid 1.0 search to use concurrent search per shard,3,tnine,3,3
+23,146,NotCompletedWithinSprint,12839980,USERGRID-764,Instance Validation Script,3,brandonshelley,2,2
+23,146,NotCompletedWithinSprint,12839981,USERGRID-765,Validate JMX Meters / Timers are the ones we want to be in place for measuring/monitoring performance,3,tnine,3,3
+23,146,NotCompletedWithinSprint,12840554,USERGRID-770,Tokens generated with app-level credentials cannot be used successfully in Header,1,mrusso,3,3
+23,146,NotCompletedWithinSprint,12842102,USERGRID-778,Limit on Queries results in a highly variable number of results,3,djohnson,3,3
+23,146,NotCompletedWithinSprint,12842475,USERGRID-785,Unable to run 2.0 to 2.1 data migration on large data set.,1,tnine,0,0
+23,146,CompletedInNotherSprint,12822817,USERGRID-586,Test app_info migration,3,safeldm,3,3
+23,152,Completed,12824342,USERGRID-596,Confirm PUT by Name Does not Fetch/Query ES,3,safeldm,1,1
+23,152,Completed,12835465,USERGRID-724,JMX Metrics/Counters for Cassandra,3,safeldm,1,1
+23,152,Completed,12843550,USERGRID-788,New ExportApp tool,3,djohnson,1,1
+23,152,Completed,12844688,USERGRID-840,Complete Multi Region ES management implementation,3,safeldm,1,1
+23,152,Completed,12845077,USERGRID-851,ImportAdmins tool should merge organizations of duplicate users,3,djohnson,3,3
+23,152,Completed,12845119,USERGRID-854,[SPIKE] Look at 'Fix X test' and close if needed,3,safeldm,2,2
+23,152,Completed,12845378,USERGRID-860,QL for contains 'text*' does not appear to work,1,safeldm,3,3
+23,152,Completed,12845393,USERGRID-861,Test and Profile performance of ExportApp tool,3,djohnson,5,5
+23,152,Completed,12846419,USERGRID-870,Inconsistent results returned while adding another data center to the Cassandra cluster.,3,mrusso,0,0
+23,152,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,152,NotCompletedWithinSprint,12835174,USERGRID-716,Use combo boxes instead of text areas for inputting multiple pieces of data,3,rbridges,3,3
+23,152,NotCompletedWithinSprint,12836202,USERGRID-732,Implement SNS-based Queue Provider in 2.0,3,null,2,2
+23,152,NotCompletedWithinSprint,12836695,USERGRID-740,Temp files from asset upload not removed  causing the file system to use all inodes,2,greyes,5,5
+23,152,NotCompletedWithinSprint,12837904,USERGRID-752,Update Usergrid 1.0 search to use concurrent search per shard,3,tnine,3,3
+23,152,NotCompletedWithinSprint,12838318,USERGRID-754,External Set of REST Tests that confirms Usergrid functionality in an execution environment,3,brandonshelley,1,1
+23,152,NotCompletedWithinSprint,12839981,USERGRID-765,Validate JMX Meters / Timers are the ones we want to be in place for measuring/monitoring performance,3,tnine,3,3
+23,152,NotCompletedWithinSprint,12840849,USERGRID-771,Add a separate email address for approving new Org Admin users which can be different from approving new Orgs,3,safeldm,3,3
+23,152,NotCompletedWithinSprint,12840852,USERGRID-772,Characterize the performance of 2.1,2,mrusso,8,8
+23,152,NotCompletedWithinSprint,12842102,USERGRID-778,Limit on Queries results in a highly variable number of results,3,djohnson,3,3
+23,152,NotCompletedWithinSprint,12844449,USERGRID-800,Test and Confirm cross-region message delivery for 2.0 in an execution environment,3,null,2,2
+23,152,NotCompletedWithinSprint,12844536,USERGRID-833,Implement script for configuring Grafana dashboards based on new JMX counters,4,jeffreyawest,3,3
+23,152,NotCompletedWithinSprint,12846321,USERGRID-869,Asset creation when using S3BinaryStore doesn't function,3,greyes,5,5
+23,152,CompletedInNotherSprint,12787407,USERGRID-534, Load Test with 2.1,3,jeffreyawest,3,3
+23,152,CompletedInNotherSprint,12839980,USERGRID-764,Instance Validation Script,3,brandonshelley,2,2
+23,153,Completed,12780903,USERGRID-469,[FIXED?] Investigate using a new TimeUUID as our routing value,3,null,0,0
+23,153,Completed,12818602,USERGRID-546,Ensure SQS Consumers are robust and do not stop consuming messages,1,mrusso,3,3
+23,153,Completed,12835174,USERGRID-716,Use combo boxes instead of text areas for inputting multiple pieces of data,3,rbridges,3,3
+23,153,Completed,12836695,USERGRID-740,Temp files from asset upload not removed  causing the file system to use all inodes,2,greyes,5,5
+23,153,Completed,12838322,USERGRID-756,[FIXED?] NPE in CpEntityManager.validate,1,null,3,3
+23,153,Completed,12840849,USERGRID-771,Add a separate email address for approving new Org Admin users which can be different from approving new Orgs,3,safeldm,3,3
+23,153,Completed,12846321,USERGRID-869,Asset creation when using S3BinaryStore doesn't function,3,greyes,5,5
+23,153,Completed,12848365,USERGRID-874,[SPIKE] Review Usergrid Documentation,3,djohnson,0,0
+23,153,Completed,12848595,USERGRID-877,Start Usergrid graduation process,3,djohnson,3,3
+23,153,Completed,12848620,USERGRID-878,Investigate Serialization issue for Notifications,3,safeldm,1,3
+23,153,Completed,12849362,USERGRID-880,Refactor Serialization in Core and move it down to corepersistence,3,safeldm,5,5
+23,153,NotCompletedWithinSprint,12819107,USERGRID-558,[FIXED?] Add resume to entity migration,3,tnine,0,0
+23,153,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,153,NotCompletedWithinSprint,12832879,USERGRID-682,Soak Testing Scripts,4,mdunker,3,3
+23,153,NotCompletedWithinSprint,12836202,USERGRID-732,Implement SNS-based Queue Provider in 2.0,3,null,2,2
+23,153,NotCompletedWithinSprint,12837904,USERGRID-752,Update Usergrid 1.0 search to use concurrent search per shard,3,tnine,3,3
+23,153,NotCompletedWithinSprint,12838318,USERGRID-754,External Set of REST Tests that confirms Usergrid functionality in an execution environment,3,brandonshelley,1,1
+23,153,NotCompletedWithinSprint,12839981,USERGRID-765,Validate JMX Meters / Timers are the ones we want to be in place for measuring/monitoring performance,3,tnine,3,3
+23,153,NotCompletedWithinSprint,12840852,USERGRID-772,Characterize the performance of 2.1,2,mrusso,8,8
+23,153,NotCompletedWithinSprint,12842102,USERGRID-778,Limit on Queries results in a highly variable number of results,3,djohnson,3,3
+23,153,NotCompletedWithinSprint,12844449,USERGRID-800,Test and Confirm cross-region message delivery for 2.0 in an execution environment,3,null,2,2
+23,153,NotCompletedWithinSprint,12844529,USERGRID-831,Confirm 2.1 LICENSE file has requisite versions and module names,3,greyes,0,0
+23,153,NotCompletedWithinSprint,12844536,USERGRID-833,Implement script for configuring Grafana dashboards based on new JMX counters,4,jeffreyawest,3,3
+23,153,NotCompletedWithinSprint,12848376,USERGRID-875,Test and Validate Multi-Region Indexing,3,mrusso,0,0
+23,153,NotCompletedWithinSprint,12849676,USERGRID-882,Release 2.0 with Admin email fixes,3,safeldm,3,3
+23,153,CompletedInNotherSprint,12825563,USERGRID-598,Merge two-dot-o-dev into two-dot-o,3,djohnson,3,3
+23,153,CompletedInNotherSprint,12832745,USERGRID-679,Update SQS provider implementation to use Observable,3,safeldm,0,2
+23,157,Completed,12734335,USERGRID-216,GET an non-exists entity by ID or Name throws 401 if no authorisation is required,3,greyes,2,2
+23,157,Completed,12788295,USERGRID-543,Add Queue Length to /status page,3,safeldm,3,3
+23,157,Completed,12819107,USERGRID-558,[FIXED?] Add resume to entity migration,3,tnine,0,0
+23,157,Completed,12819127,USERGRID-560,Ensure USERGRID-530 is addressed in two-dot-o(-dev),3,greyes,3,3
+23,157,Completed,12838318,USERGRID-754,External Set of REST Tests that confirms Usergrid functionality in an execution environment,3,brandonshelley,1,1
+23,157,Completed,12839981,USERGRID-765,Validate JMX Meters / Timers are the ones we want to be in place for measuring/monitoring performance,3,tnine,3,3
+23,157,Completed,12840852,USERGRID-772,Characterize the performance of 2.1,2,mrusso,8,8
+23,157,Completed,12844529,USERGRID-831,Confirm 2.1 LICENSE file has requisite versions and module names,3,greyes,3,3
+23,157,Completed,12848376,USERGRID-875,Test and Validate Multi-Region Indexing,3,mrusso,1,1
+23,157,Completed,12849676,USERGRID-882,Release 2.0 with Admin email fixes,3,safeldm,3,3
+23,157,Completed,12849736,USERGRID-889,Convert Usergrid docs & Update for 2.0: Introduction & Getting Started,3,djohnson,3,3
+23,157,Completed,12849737,USERGRID-890,Convert Usergrid docs & Update for 2.0: Data Storage  Queries and Connections,3,djohnson,3,3
+23,157,Completed,12849739,USERGRID-892,Convert Usergrid docs & Update for 2.0: Security & Auth and User Mgmt,3,djohnson,3,3
+23,157,Completed,12849742,USERGRID-894,Convert Usergrid docs & Update for 2.0: Counters & Events,3,djohnson,3,3
+23,157,Completed,12849743,USERGRID-895,Convert Usergrid docs & Update for 2.0: Org & App Management  User Management,3,djohnson,3,3
+23,157,Completed,12849800,USERGRID-898,Add proper error checking to Asset Code along with error checking tests.,3,greyes,3,3
+23,157,Completed,12850679,USERGRID-899,Validate migrate_entity_data script produces consistent migrations.,3,mrusso,0,1
+23,157,Completed,12851255,USERGRID-900,Re-index using AmazonAsyncEventService should support updated date,3,tnine,0,3
+23,157,Completed,12854202,USERGRID-907,Batch interval in seconds not honored,3,tnine,3,3
+23,157,Completed,12854262,USERGRID-908,run specific migration,3,safeldm,1,1
+23,157,NotCompletedWithinSprint,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,157,Punted,12855929,USERGRID-909,Evaluate removing cache from edge shard management,3,tnine,5,5
+23,157,CompletedInNotherSprint,12770806,USERGRID-370,[FIXED?] Use ElasticSearch Filters instead of Term Query for exact matches,3,djohnson,0,0
+23,157,CompletedInNotherSprint,12776949,USERGRID-411,[FIXED?] Fix default index routing rules,3,null,0,0
+23,157,CompletedInNotherSprint,12779945,USERGRID-457,Content length headers are not being sent on POSTS for ping identity,3,mrusso,3,3
+23,157,CompletedInNotherSprint,12819108,USERGRID-559,[FIXED?] Add re-index resume,3,tnine,0,3
+23,176,Completed,12803799,USERGRID-545,Endpoint for checking storage consumed,3,safeldm,3,3
+23,176,Completed,12825697,USERGRID-603,Release 2.1,3,null,0,0
+23,176,Completed,12844495,USERGRID-816,Implement the ability to track the storage used by an app,3,null,3,3
+23,176,Completed,12856724,USERGRID-912,Upgrade Shiro to be current version,3,djohnson,1,1
+23,176,Completed,12856733,USERGRID-918,Add qparam to skip retrieving metadata and graph edges,2,mdunker,8,8
+23,176,Completed,12857669,USERGRID-929,Test the creation of entities which have an OldUUID to migrate from 1.0 to 2.1,3,mrusso,1,1
+23,176,Completed,12859454,USERGRID-950,Remove Cassandra Keyspace name from Index Naming Strategy,3,mrusso,0,1
+23,176,NotCompletedWithinSprint,12703075,USERGRID-103,Upgrade to latest Jersey 2.x release,3,djohnson,5,5
+23,176,NotCompletedWithinSprint,12855929,USERGRID-909,Evaluate removing cache from edge shard management,3,tnine,5,5
+23,176,NotCompletedWithinSprint,12856726,USERGRID-914,Blog post for 10k TPS and horizontal scalability,3,mrusso,2,2
+23,176,NotCompletedWithinSprint,12858677,USERGRID-941,Spike: Investigate using Java Annotations to generate Swagger,3,djohnson,5,5
+23,176,NotCompletedWithinSprint,12858742,USERGRID-944,Prototype using Spark to perform functions on data in Cassandra,4,null,0,3
+23,176,CompletedInNotherSprint,12858483,USERGRID-937,Nested Arrays in documents result in infinite loop / stack overflow,3,mrusso,1,1
+23,177,Completed,12855929,USERGRID-909,Evaluate removing cache from edge shard management,3,tnine,5,5
+23,177,Completed,12856726,USERGRID-914,Blog post for 10k TPS and horizontal scalability,3,mrusso,2,2
+23,177,Completed,12858645,USERGRID-938,Create a tool with the capability to wipe an application from Cassandra,1,safeldm,3,3
+23,177,Completed,12861158,USERGRID-989,Create a multi region lock ability for shard allocation,3,tnine,5,5
+23,177,Completed,12861390,USERGRID-991,Fix tests after Jersey 2.0 upgrade,3,djohnson,5,5
+23,177,Completed,12861411,USERGRID-993,Separate database system and system bootstrap,3,tnine,0,3
+23,177,Completed,12861985,USERGRID-1000,get apm/apigeeMobileConfig throws exception when its not set,3,safeldm,3,3
+23,177,Completed,12862480,USERGRID-1005,Add Background processing for delete application,3,safeldm,2,2
+23,177,Completed,12863214,USERGRID-1014,Push Notification Delivery Expiration Not Working,3,mrusso,0,0
+23,177,Completed,12863556,USERGRID-1016,Remove UUID field encoding in our ES fields,3,safeldm,3,3
+23,177,NotCompletedWithinSprint,12703075,USERGRID-103,Upgrade to latest Jersey 2.x release,3,djohnson,5,5
+23,177,NotCompletedWithinSprint,12842475,USERGRID-785,Unable to run 2.0 to 2.1 data migration on large data set.,1,tnine,3,3
+23,177,NotCompletedWithinSprint,12858677,USERGRID-941,Spike: Investigate using Java Annotations to generate Swagger,3,djohnson,5,5
+23,177,NotCompletedWithinSprint,12858762,USERGRID-945,Perform load testing of new shard management impl,2,tnine,5,5
+23,177,NotCompletedWithinSprint,12861392,USERGRID-992,Enable Org-level properties,3,mdunker,5,5
+23,177,NotCompletedWithinSprint,12863460,USERGRID-1015,Test Notification Migration ,3,safeldm,3,3
+23,177,NotCompletedWithinSprint,12863560,USERGRID-1017,Create a job to clean unused edges,3,tnine,3,3
+23,177,NotCompletedWithinSprint,12863561,USERGRID-1018,Create a job to remove duplicate connections and fix connection write logic,3,tnine,3,3
+23,177,Punted,12787403,USERGRID-532,Endpoint to get the size of the SQS index queue,3,safeldm,2,2
+23,177,Punted,12857639,USERGRID-926,Include distances in geoquery responses,3,safeldm,3,3
+23,177,CompletedInNotherSprint,12692551,USERGRID-54,Remove old dead code and fully utilize guicy fig,3,null,0,0
+23,177,CompletedInNotherSprint,12836214,USERGRID-737,[SPIKE] Identify code/modules which need to be updated from Spring to Guice,3,null,0,0
+23,177,CompletedInNotherSprint,12845286,USERGRID-857,"Portal page shows ""Thanks for signing up for a spot on our private beta"" when registering",3,rbridges,0,0
+23,178,Completed,12787403,USERGRID-532,Endpoint to get the size of the SQS index queue,3,safeldm,2,2
+23,178,Completed,12861392,USERGRID-992,Enable Org-level properties,3,mdunker,5,5
+23,178,Completed,12862862,USERGRID-1007,Implement a cache for Shiro & permissions,3,djohnson,5,5
+23,178,Completed,12863195,USERGRID-1013,Automate upload of api baas 2.1 build to s3,3,null,3,3
+23,178,Completed,12863460,USERGRID-1015,Test Notification Migration ,3,safeldm,3,3
+23,178,Completed,12863561,USERGRID-1018,Create a job to remove duplicate connections and fix connection write logic,3,tnine,3,3
+23,178,Completed,12863939,USERGRID-1021,Improve Location Attribute Handling to not require Lat/Lon and also be indexable,3,safeldm,0,0
+23,178,Completed,12864337,USERGRID-1022,remove batching in index processing,3,safeldm,1,1
+23,178,Completed,12873067,USERGRID-1023,Delete from collection does not use SQS or the event service,3,safeldm,3,3
+23,178,Completed,12888688,USERGRID-1027,Occational MIsses on Indexing into Elasticsearch,3,null,8,8
+23,178,Completed,12895183,USERGRID-1029,When PUTing by uuid or name  add the entry into entity_id_sets column family,3,tnine,3,3
+23,178,Completed,12901054,USERGRID-1038,2.1-release: fix index batching from SQS reader,3,safeldm,3,3
+23,178,Completed,12904629,USERGRID-1048,When reading messages from SQS an elevated consistency may be needed with latent replication,1,tnine,0,3
+23,178,Completed,12905593,USERGRID-1049,Add originating region to SQS queue message,3,mrusso,0,0
+23,178,Completed,12905667,USERGRID-1050,Remove SQS implementation,3,null,0,0
+23,178,Completed,12906770,USERGRID-1052,After large deletions  graph seek time becomes slow,3,tnine,5,5
+23,178,Completed,12906797,USERGRID-1056,ES Documents not getting deleted when deleting entities,3,mrusso,0,0
+23,178,Completed,12907113,USERGRID-1058,Ability to generate a master Jacoco coverage report,3,djohnson,3,3
+23,178,Completed,12907541,USERGRID-1062,Entity Edges are not getting deleted from graph when handling delete event,3,mrusso,0,0
+23,178,Completed,12908025,USERGRID-1065,Create a system endpoint for the superuser to GET all apps for an org,3,mrusso,0,0
+23,178,Completed,12908026,USERGRID-1066,Create a system endpoint for the superuser to GET all orgs in the system,3,mrusso,0,0
+23,178,NotCompletedWithinSprint,12703075,USERGRID-103,Upgrade to latest Jersey 2.x release,3,djohnson,5,5
+23,178,NotCompletedWithinSprint,12842475,USERGRID-785,Unable to run 2.0 to 2.1 data migration on large data set.,1,tnine,3,3
+23,178,NotCompletedWithinSprint,12858677,USERGRID-941,Spike: Investigate using Java Annotations to generate Swagger,3,djohnson,5,5
+23,178,NotCompletedWithinSprint,12863560,USERGRID-1017,Create a job to clean unused edges,3,tnine,3,3
+23,178,NotCompletedWithinSprint,12873117,USERGRID-1025,Cass status fails in a 2.0 cluster,3,djohnson,0,0
+23,178,NotCompletedWithinSprint,12908024,USERGRID-1064,Create a system endpoint to de-dup connections per application,3,tnine,0,0
+23,178,Punted,12844533,USERGRID-832,[SPIKE] Investigate and propose 2-3 approaches for indexing specific attributes of documents,2,greyes,5,5
+23,178,Punted,12856740,USERGRID-921,Remove duplicate add to collection on write path,2,greyes,3,3
+23,178,Punted,12857639,USERGRID-926,Include distances in geoquery responses,3,safeldm,3,3
+23,178,Punted,12858741,USERGRID-943,Document and test S3 export capability,3,steve.traut,0,0
+23,178,Punted,12873085,USERGRID-1024,Fix EntityMapSerialization in EntityToMapConverter to remove type serialization,4,mrusso,3,3
+23,178,Punted,12902854,USERGRID-1046,remove index and deindex requests that do not go through sqs e.g. CandidateIdFilter,3,mrusso,3,3
+23,186,Completed,12703075,USERGRID-103,Upgrade to latest Jersey 2.x release,3,djohnson,5,5
+23,186,Completed,12780420,USERGRID-462,[SPIKE] Investigate geo location re-index failure,1,safeldm,3,3
+23,186,Completed,12842475,USERGRID-785,Unable to run 2.0 to 2.1 data migration on large data set.,1,tnine,3,3
+23,186,Completed,12858677,USERGRID-941,Spike: Investigate using Java Annotations to generate Swagger,3,djohnson,5,5
+23,186,Completed,12863560,USERGRID-1017,Create a job to clean unused edges,3,tnine,3,3
+23,186,Completed,12873117,USERGRID-1025,Cass status fails in a 2.0 cluster,3,djohnson,0,0
+23,186,Completed,12902824,USERGRID-1044,Support for gatling load testing with unlimited feed,3,mdunker,0,0
+23,186,Completed,12908024,USERGRID-1064,Create a system endpoint to de-dup connections per application,3,tnine,0,0
+23,186,Completed,12908367,USERGRID-1067,Finish 2.1 release testing,3,mdunker,3,3
+23,186,Completed,12908369,USERGRID-1068,Create a per app migration script,3,djohnson,2,2
+23,186,Completed,12908370,USERGRID-1069,implement build metrics in jenkins,4,safeldm,1,1
+23,186,Completed,12908375,USERGRID-1071,Test iOS push notifications,3,safeldm,1,1
+23,186,Completed,12908376,USERGRID-1072,Test Android push notifications,3,safeldm,1,1
+23,186,Completed,12908384,USERGRID-1074,[SPIKE] Evaluate read repair of unique values in 1.0,3,greyes,1,1
+23,186,Completed,12908635,USERGRID-1079,Add 2 endpoints for password hash migration,3,tnine,5,5
+23,186,Completed,12908643,USERGRID-1080,Change elasticsearch query for retrieving versions,3,mrusso,0,0
+23,186,Completed,12910104,USERGRID-1088,Objects nested in arrays are not getting indexed.,3,mrusso,0,0
+23,186,Completed,12910489,USERGRID-1091,AbstractReadGraphFilter produces and queues empty queue operations,3,mrusso,0,1
+23,186,NotCompletedWithinSprint,12857639,USERGRID-926,Include distances in geoquery responses,3,safeldm,3,3
+23,186,NotCompletedWithinSprint,12857681,USERGRID-933,[SPIKE] Understand what remains and break up tasks for migrating properties from files on Tomcat to Org-level in the management app,3,mdunker,0,3
+23,186,NotCompletedWithinSprint,12858762,USERGRID-945,Perform load testing of new shard management impl,2,tnine,5,5
+23,186,NotCompletedWithinSprint,12908377,USERGRID-1073,Test Windows phone,3,safeldm,1,1
+23,186,NotCompletedWithinSprint,12908398,USERGRID-1075,Create Repair Tool to address Service Resource Exceptions from users who cannot be queried for their data,3,greyes,5,5
+23,186,NotCompletedWithinSprint,12908402,USERGRID-1076,Create a Repair tool that will address null pointer exceptions on entity returns and then properly handle them,3,greyes,5,5
+23,186,NotCompletedWithinSprint,12909708,USERGRID-1085,Create RPM Distributable for Usergrid 2.1,2,mrusso,0,5
+23,210,Completed,12846883,USERGRID-872,Fix and prune Usergrid tools in 2.1,4,djohnson,2,3
+23,210,Completed,12848378,USERGRID-876,[SPIKE] Review 'ignored tests',3,djohnson,3,3
+23,210,Completed,12857639,USERGRID-926,Include distances in geoquery responses,3,safeldm,3,3
+23,210,Completed,12858762,USERGRID-945,Perform load testing of new shard management impl,2,tnine,5,5
+23,210,Completed,12895582,USERGRID-1031,Test and confirm Usergrid 1.0 works with Cassandra 2.1,3,mrusso,2,2
+23,210,Completed,12895583,USERGRID-1032,Test and confirm Usergrid 2.1 works with Cassandra 2.1,2,mrusso,2,2
+23,210,Completed,12906779,USERGRID-1053,[SPIKE] Audit TODOs in the code,2,tnine,5,5
+23,210,Completed,12908377,USERGRID-1073,Test Windows phone,3,safeldm,1,1
+23,210,Completed,12908402,USERGRID-1076,Create a Repair tool that will address null pointer exceptions on entity returns and then properly handle them,3,greyes,5,5
+23,210,Completed,12909708,USERGRID-1085,Create RPM Distributable for Usergrid 2.1,2,mrusso,5,5
+23,210,Completed,12910807,USERGRID-1099,Order of operations error in Query Execution,3,djohnson,5,5
+23,210,Completed,12911608,USERGRID-1100,POST /users/{user}/devices/notifications does not work.,3,mrusso,0,1
+23,210,Completed,12911613,USERGRID-1101,Unique Value Cleanup in 2.1 - cleaning up old columns for old versions,3,null,3,3
+23,210,Completed,12912296,USERGRID-1104,Indexes in Elasticsearch created with alias names,3,mrusso,0,0
+23,210,Completed,12912539,USERGRID-1106,Fix test: clientCredentialsFlowWithHeaderAuthorization(),3,djohnson,0,3
+23,210,Completed,12912929,USERGRID-1112,Test and Fix Shard Delete,3,mrusso,0,0
+23,210,Completed,12913727,USERGRID-1115,Fix AdminUsersIT tests,3,djohnson,5,5
+23,210,Completed,12913745,USERGRID-1119,Fix GroupResourceIT.postGroupActivity() test,3,djohnson,0,3
+23,210,Completed,12914519,USERGRID-1122,NullPointerException during read repair,3,mrusso,0,0
+23,210,Completed,12915128,USERGRID-1126,Documents not getting index when JSON contains latitude or longitude fields with empty string values,3,mrusso,0,0
+23,210,Completed,12921439,USERGRID-1181,"Allow notification entities to be deleted if they are not ""in progress""",3,mrusso,0,0
+23,210,Completed,12924728,USERGRID-1185,PUT by name does a GET on an entity twice,3,mrusso,0,0
+23,210,Completed,12924930,USERGRID-1186,Add DELETE for Admin Users,3,greyes,2,2
+23,210,NotCompletedWithinSprint,12857681,USERGRID-933,[SPIKE] Understand what remains and break up tasks for migrating properties from files on Tomcat to Org-level in the management app,3,mdunker,3,3
+23,210,NotCompletedWithinSprint,12924937,USERGRID-1187,Ensure that PUT or POST does not create duplicate org association connections. ,3,greyes,2,2
+23,187,Completed,12691702,USERGRID-35,Cannot delete an entity that has a connection to it,2,greyes,3,3
+23,187,Completed,12714665,USERGRID-144,Assets: File meta not refreshed after PUT,4,greyes,0,0
+23,187,Completed,12840219,USERGRID-767,WebApplicationException / Uncaught Exception embarassment,2,greyes,3,3
+23,187,Completed,12856740,USERGRID-921,Remove duplicate add to collection on write path,2,greyes,3,3
+23,187,Completed,12857681,USERGRID-933,[SPIKE] Understand what remains and break up tasks for migrating properties from files on Tomcat to Org-level in the management app,3,mdunker,3,3
+23,187,Completed,12858460,USERGRID-936,Unit Test for MapToEntityConverter.processListForField to test for 2d array and infinite loop,2,mrusso,0,1
+23,187,Completed,12863128,USERGRID-1012,Geolocation with limit of 610.000 returns a result with distance of 610.09,2,greyes,0,0
+23,187,Completed,12903063,USERGRID-1047,GET on missing Asset file in S3 generates 500 error not 404,3,greyes,0,0
+23,187,Completed,12906403,USERGRID-1051,When ElasticSearch rejects a Search request Usergrid should not return 200 OK with an empty array,3,greyes,1,1
+23,187,Completed,12909281,USERGRID-1083,getEntityByName 404 API response logs unnecessary Uncaught Exception ERROR,2,greyes,0,0
+23,187,Completed,12913707,USERGRID-1113,Improve NotificationsService test coverage,3,mrusso,2,2
+23,187,Completed,12921555,USERGRID-1182,Support GCM 3.0 for Android Push Notifications,3,mrusso,2,2
+23,187,Completed,12924937,USERGRID-1187,Ensure that PUT or POST does not create duplicate org association connections. ,3,greyes,2,2
+23,187,Completed,12928792,USERGRID-1200,Org config override for portal and API URLs,3,mdunker,0,0
+23,187,Completed,12929228,USERGRID-1203,Allow certs in notifiers to be updated and store their details in the entity.,4,mrusso,1,1
+23,187,Completed,12929920,USERGRID-1209,GET on missing Asset file in S3 generates 500 error not 404,3,greyes,1,1
+23,187,Completed,12929942,USERGRID-1210,Fix AwsAssetResourceIT,3,greyes,3,3
+23,187,Completed,12931324,USERGRID-1211,Migrate locks from Hector to Astyanax,2,mrusso,3,3
+23,187,Completed,12934640,USERGRID-1241,Org config settings for view redirects,3,mdunker,0,0
+23,187,Completed,12935229,USERGRID-1243,Replace logging string concatenation with formatting,3,mdunker,0,0
+23,187,NotCompletedWithinSprint,12913728,USERGRID-1116,Fix MessagesIT tests,3,greyes,0,0
+23,187,NotCompletedWithinSprint,12913744,USERGRID-1118,Fix EventsResource and IT,3,greyes,0,0
+23,187,NotCompletedWithinSprint,12929317,USERGRID-1205,Duplicate Admin Repair,3,djohnson,0,0
+23,187,Punted,12775987,USERGRID-402,Remove old dictionary calls with Hector and migrate to the map module,2,mrusso,1,1
+23,187,Punted,12775988,USERGRID-403,Migrate counters from Hector to Datastax Java Driver,2,mrusso,3,3
+23,187,Punted,12849675,USERGRID-881,Remove Fields and Map to Entity Conversions from Core,3,mrusso,8,8
+23,187,Punted,12913746,USERGRID-1120,Fix CounterIT.testIncrementAndDecrement() test,3,greyes,0,0
+23,187,Punted,12921558,USERGRID-1183,Support APNS VoIP Push Notifications,3,mrusso,2,2
+23,187,CompletedInNotherSprint,12888594,USERGRID-1026,Logic to detect (N+1)-d arrays catches a case where there is no 2-d array,1,mrusso,0,1
+23,187,CompletedInNotherSprint,12895584,USERGRID-1033,Test and confirm Usergrid 2.0 works with Cassandra 2.1,3,mrusso,0,1
+23,187,CompletedInNotherSprint,12908398,USERGRID-1075,Create Repair Tool to address Service Resource Exceptions from users who cannot be queried for their data,3,greyes,5,5
+23,187,CompletedInNotherSprint,12910497,USERGRID-1095,Investigate query parsing and execution issues related to order of operations,3,null,0,0
+23,218,Completed,12707738,USERGRID-119,Automate create of Usergrid release bundles,4,djohnson,0,0
+23,218,Completed,12746283,USERGRID-238,Remove ARS Maquette font from Portal,4,djohnson,2,2
+23,218,Completed,12849738,USERGRID-891,Convert Usergrid docs & Update for 2.0: Push Notifications,4,djohnson,3,3
+23,218,Completed,12929317,USERGRID-1205,Duplicate Admin Repair,3,djohnson,0,0
+23,218,NotCompletedWithinSprint,12761477,USERGRID-286,Build Application and Collection Delete Async Distributed Workflow,4,mrusso,3,3
+23,218,NotCompletedWithinSprint,12775987,USERGRID-402,Remove old dictionary calls with Hector and migrate to the map module,2,mrusso,1,1
+23,218,NotCompletedWithinSprint,12775988,USERGRID-403,Migrate counters from Hector to Datastax Java Driver,2,mrusso,3,3
+23,218,NotCompletedWithinSprint,12786084,USERGRID-522,Support for Partial Indexing of types,2,greyes,0,0
+23,218,NotCompletedWithinSprint,12844533,USERGRID-832,[SPIKE] Investigate and propose 2-3 approaches for indexing specific attributes of documents,2,greyes,5,5
+23,218,NotCompletedWithinSprint,12861386,USERGRID-990,REST API Endpoint for defining indexes,4,null,0,0
+23,218,NotCompletedWithinSprint,12910492,USERGRID-1093,Load test in-memory queue with current consumer and queue implementation,3,mrusso,3,3
+23,218,NotCompletedWithinSprint,12913728,USERGRID-1116,Fix MessagesIT tests,3,greyes,0,0
+23,218,NotCompletedWithinSprint,12913744,USERGRID-1118,Fix EventsResource and IT,3,greyes,0,3
+23,218,NotCompletedWithinSprint,12913746,USERGRID-1120,Fix CounterIT.testIncrementAndDecrement() test,3,greyes,0,0
+23,218,NotCompletedWithinSprint,12914668,USERGRID-1124,"Internal ""size"" within entity metadata is not displayed when doing a GET by entity name ",4,mrusso,0,0
+23,218,NotCompletedWithinSprint,12927333,USERGRID-1191,Create 2.1 Release for Apache,3,djohnson,0,3
+23,218,NotCompletedWithinSprint,12936189,USERGRID-1250,Create additional push notification tests for the node.js integration tests,4,asinha,0,0
+23,218,NotCompletedWithinSprint,12936225,USERGRID-1252,Default entity types do not show up on GET /<application> endpoint when there are 0 entities,3,greyes,0,0
+23,218,NotCompletedWithinSprint,12936536,USERGRID-1253,Investigate and Refactor WriteUniqueVerify,3,djohnson,0,0
+23,218,NotCompletedWithinSprint,12937571,USERGRID-1256,Introduce Datastax Java Driver in effort to migration away from Astyanax,3,mrusso,1,1
+23,218,Punted,12766560,USERGRID-324,[SPIKE] Prototype a few distributed realtime parallel processing systems,4,null,8,8
+23,218,CompletedInNotherSprint,12935451,USERGRID-1245,Find alternative to com.clearspring.analytics,3,mrusso,0,0
+23,221,Completed,12778909,USERGRID-446,Removed unused column families,3,greyes,5,5
+23,221,Completed,12914668,USERGRID-1124,"Internal ""size"" within entity metadata is not displayed when doing a GET by entity name ",4,mrusso,0,1
+23,221,Completed,12927333,USERGRID-1191,Create 2.1 Release for Apache,3,djohnson,3,3
+23,221,Completed,12936225,USERGRID-1252,Default entity types do not show up on GET /<application> endpoint when there are 0 entities,3,greyes,0,0
+23,221,NotCompletedWithinSprint,12775987,USERGRID-402,Remove old dictionary calls with Hector and migrate to the map module,2,mrusso,1,1
+23,221,NotCompletedWithinSprint,12775988,USERGRID-403,Migrate counters from Hector to Datastax Java Driver,2,mrusso,3,3
+23,221,NotCompletedWithinSprint,12786084,USERGRID-522,Support for Partial Indexing of types,2,greyes,0,0
+23,221,NotCompletedWithinSprint,12844533,USERGRID-832,[SPIKE] Investigate and propose 2-3 approaches for indexing specific attributes of documents,2,greyes,5,5
+23,221,NotCompletedWithinSprint,12861386,USERGRID-990,REST API Endpoint for defining indexes,4,null,0,0
+23,221,NotCompletedWithinSprint,12910492,USERGRID-1093,Load test in-memory queue with current consumer and queue implementation,3,mrusso,3,3
+23,221,NotCompletedWithinSprint,12913728,USERGRID-1116,Fix MessagesIT tests,3,greyes,0,0
+23,221,NotCompletedWithinSprint,12913744,USERGRID-1118,Fix EventsResource and IT,3,greyes,3,3
+23,221,NotCompletedWithinSprint,12913746,USERGRID-1120,Fix CounterIT.testIncrementAndDecrement() test,3,greyes,0,0
+23,221,NotCompletedWithinSprint,12936536,USERGRID-1253,Investigate and Refactor WriteUniqueVerify,3,djohnson,0,0
+23,221,NotCompletedWithinSprint,12937571,USERGRID-1256,Introduce Datastax Java Driver in effort to migration away from Astyanax,3,mrusso,1,1
+23,221,NotCompletedWithinSprint,12939303,USERGRID-1262,Always return JSON as application/json,3,null,0,0
+23,221,NotCompletedWithinSprint,12941082,USERGRID-1268,Proof of Concept: use Akka for Unique Value enforcement,3,djohnson,8,8
+23,221,Punted,12849675,USERGRID-881,Remove Fields and Map to Entity Conversions from Core,3,mrusso,8,8
+23,221,Punted,12873085,USERGRID-1024,Fix EntityMapSerialization in EntityToMapConverter to remove type serialization,4,mrusso,3,3
+23,221,Punted,12921558,USERGRID-1183,Support APNS VoIP Push Notifications,3,mrusso,2,2
+23,221,Punted,12927338,USERGRID-1192,Evaluate GC and profile 2.1 for GC settings optimization,3,mrusso,0,0
+23,221,Punted,12927353,USERGRID-1193,Evaluate code to reduce GC pressure,3,mrusso,0,0
+23,221,Punted,12934180,USERGRID-1240,Test and integrate Pushy SOCKS changes,3,mrusso,0,0
+23,221,Punted,12935445,USERGRID-1244,Upgrade pushy library to use latest version (HTTP/2 APNS implementation) ,3,mrusso,2,2
+23,221,Punted,12936220,USERGRID-1251,Handle index processing event case where an edge exists but entity is missing.,3,mrusso,0,0
+23,224,NotCompletedWithinSprint,12935452,USERGRID-1246,Remove Unnecessary dependencies,3,greyes,0,0
+23,224,NotCompletedWithinSprint,12936128,USERGRID-1248,Please delete old releases from mirroring system,3,djohnson,0,0
+23,224,NotCompletedWithinSprint,12955928,USERGRID-1272,Set a property to turn off usergrid's dependency on elasticsearch,3,mrusso,5,5
+23,224,NotCompletedWithinSprint,12963329,USERGRID-1281,Download page must link to ASF mirrors for KEYS  sigs hashes,3,djohnson,0,0
+23,224,NotCompletedWithinSprint,12972525,USERGRID-1293,Asset files do not appear to be deleted,4,null,0,0
+23,224,NotCompletedWithinSprint,13046194,USERGRID-1336,Implement a query analyzer,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12778946,USERGRID-447,Fix data migration format lifecycle on initial setup,4,mrusso,1,1
+23,224,CompletedInNotherSprint,12785250,USERGRID-507,Many Histrix timeouts though Cassndra is not under load,4,mrusso,3,3
+23,224,CompletedInNotherSprint,12786084,USERGRID-522,Support for Partial Indexing of types,2,greyes,0,0
+23,224,CompletedInNotherSprint,12829252,USERGRID-647,Issue with Unique Values - NPE,3,null,3,3
+23,224,CompletedInNotherSprint,12844533,USERGRID-832,[SPIKE] Investigate and propose 2-3 approaches for indexing specific attributes of documents,2,greyes,5,5
+23,224,CompletedInNotherSprint,12861386,USERGRID-990,REST API Endpoint for defining indexes,4,null,0,0
+23,224,CompletedInNotherSprint,12910395,USERGRID-1090,DELETE on missing User entity returns 401 not 404,3,mdunker,0,0
+23,224,CompletedInNotherSprint,12910492,USERGRID-1093,Load test in-memory queue with current consumer and queue implementation,3,mrusso,3,3
+23,224,CompletedInNotherSprint,12910515,USERGRID-1098,Perform quorum reads only after waiting and retrying,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12913728,USERGRID-1116,Fix MessagesIT tests,3,greyes,0,0
+23,224,CompletedInNotherSprint,12913744,USERGRID-1118,Fix EventsResource and IT,3,greyes,3,3
+23,224,CompletedInNotherSprint,12913746,USERGRID-1120,Fix CounterIT.testIncrementAndDecrement() test,3,greyes,0,0
+23,224,CompletedInNotherSprint,12915594,USERGRID-1128,Entity request by uuid that doesn't exist returns 401 instead of 404,3,mdunker,0,0
+23,224,CompletedInNotherSprint,12927338,USERGRID-1192,Evaluate GC and profile 2.1 for GC settings optimization,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12928170,USERGRID-1197,Test and confirm DELETE APP in an integration environment,3,greyes,0,0
+23,224,CompletedInNotherSprint,12936536,USERGRID-1253,Investigate and Refactor WriteUniqueVerify,3,djohnson,0,0
+23,224,CompletedInNotherSprint,12937571,USERGRID-1256,Introduce Datastax Java Driver in effort to migration away from Astyanax,3,mrusso,1,1
+23,224,CompletedInNotherSprint,12938729,USERGRID-1259,Re-indexing ElasticSearch entity data from Cassandra - Possible Memory Leaks in Usergrid,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12939339,USERGRID-1266,401 when 404 is expected on missing entity,3,mdunker,0,0
+23,224,CompletedInNotherSprint,12941082,USERGRID-1268,Proof of Concept: use Akka for Unique Value enforcement,3,djohnson,8,8
+23,224,CompletedInNotherSprint,12951625,USERGRID-1270,Enhance shard compaction to track the 'end' of a shard's valid Edges,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12966279,USERGRID-1283,Improve ServiceManager.init() start-up logic,3,djohnson,0,0
+23,224,CompletedInNotherSprint,12967304,USERGRID-1289,Make /org/app/users/me permissions more robust.,4,djohnson,0,0
+23,224,CompletedInNotherSprint,12975307,USERGRID-1295,Enhance de-index on update/delete logic to find old versions using Cassandra,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12975508,USERGRID-1296,Selecting nested fields in query select cause not working,3,djohnson,0,0
+23,224,CompletedInNotherSprint,12975509,USERGRID-1297,PUT /{collection}/{entityName} giving 400 Status with DuplicateUniquePropertyExistsException,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12975510,USERGRID-1298,When cursor queryparam is passed in with an empty value  500 response code is thrown,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12985810,USERGRID-1304,HTTP 500 error when retrieving Entity via connection,3,Ayesha12,0,0
+23,224,CompletedInNotherSprint,12987817,USERGRID-1305,Error trying to send push notifications / iterate collections,3,mrusso,0,0
+23,224,CompletedInNotherSprint,12990790,USERGRID-1310,No cursor returned when paging incoming connections,3,Ayesha12,0,0
+23,224,CompletedInNotherSprint,12991190,USERGRID-1314,"Or queries fail when field ""name"" is included",3,Ayesha12,0,0
+23,226,NotCompletedWithinSprint,12921558,USERGRID-1183,Support APNS VoIP Push Notifications,3,mrusso,2,2
+23,226,NotCompletedWithinSprint,12929332,USERGRID-1207,Notification statistics are not accurate,3,mrusso,0,0
+23,226,NotCompletedWithinSprint,12929338,USERGRID-1208,Complete Push Notifications TestAdapter functionality.,4,mrusso,0,0
+23,226,NotCompletedWithinSprint,12934180,USERGRID-1240,Test and integrate Pushy SOCKS changes,3,mrusso,0,0
+23,226,NotCompletedWithinSprint,12935445,USERGRID-1244,Upgrade pushy library to use latest version (HTTP/2 APNS implementation) ,3,mrusso,2,2
+23,226,NotCompletedWithinSprint,12936189,USERGRID-1250,Create additional push notification tests for the node.js integration tests,4,asinha,0,0
+23,226,NotCompletedWithinSprint,12936220,USERGRID-1251,Handle index processing event case where an edge exists but entity is missing.,3,mrusso,0,0
+23,226,NotCompletedWithinSprint,12938749,USERGRID-1260,Asset and Accept Header changes,3,mdunker,0,0
+23,226,CompletedInNotherSprint,12777977,USERGRID-423,Added rest tests for system/* endpoints,4,null,5,5
+23,226,CompletedInNotherSprint,12927353,USERGRID-1193,Evaluate code to reduce GC pressure,3,mrusso,0,0
+23,226,CompletedInNotherSprint,12939564,USERGRID-1267,Simplify Central SSO: eliminate ext token validation end-point,3,djohnson,3,3

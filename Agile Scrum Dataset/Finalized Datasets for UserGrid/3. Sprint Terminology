@@ -1,0 +1,37 @@
+sprintId - Sprint
+sprintName - Name of the sprint
+sprintState - (CLOSED)
+sprintStartDate - The start date
+sprintEndDate - Last day of sprint
+sprintCompleteDate - date the sprint closed in JIRA
+totalNumberOfIssues - Number of Issues added to sprint
+completedIssuesCount - Number of Issues completed 
+issuesNotCompletedInCurrentSprint - Number of issues moved to another sprint as definition done is not met
+puntedIssues - Number of issues removed from sprint
+issuesCompletedInAnotherSprint  - Number of issues that meets definition of done in another sprint
+issueKeysAddedDuringSprint - Issues added at the middle of sprint
+completedIssuesInitialEstimateSum - Completed Velocity (Initial)
+completedIssuesEstimateSum - Completed Velocity (After adjustng storypoints due to some reasons)
+puntedIssuesInitialEstimateSum - Total storypoints of removed issues (Initial)
+puntedIssuesEstimateSum - Total storypoints of removed issues (After adjustng storypoints due to some reasons)
+issuesNotCompletedInitialEstimateSum
+issuesNotCompletedEstimateSum
+issuesCompletedInAnotherSprintInitialEstimateSum
+issuesCompletedInAnotherSprintEstimateSum
+NoOfDevelopers - Number of assignees
+SprintLength - length of sprint
+
+
+----------------Issues Not Complete--------------
+Any issues not completed at the end of the sprint will be moved to the next planned sprint, 
+as they did not meet the team's definition of "Done". 
+If you do not have a next planned sprint, 
+they will be returned to the backlog and will be 
+visible in the Backlog of the board.
+
+--------------Issues completed in an sprint--------------------------
+A board filters for a set of issues. A sprint includes a sub-set of those issues, 
+the ones you have chosen to work on for the sprint. 
+If you take an issue that is not included in the current sprint, 
+and complete it while the sprint is running, then,
+well it is an "issue complete outside a sprint".

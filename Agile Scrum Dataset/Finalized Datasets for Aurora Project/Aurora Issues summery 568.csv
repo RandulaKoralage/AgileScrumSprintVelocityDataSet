@@ -1,0 +1,569 @@
+﻿projectID,sprintId,status,storyId,issueKey,summary,priorityId,assignee,initialStoryPoint,currentStoryPoint
+37,7,Completed,12696742,AURORA-228,Consider using gradle javascript plugin,5,davmclau,0,0
+37,7,Completed,12711065,AURORA-368,newer pants/commons lib break aurora packaging,3,wickman,0,0
+37,7,Completed,12712400,AURORA-378,Add config grouping visualisation to job page,3,davmclau,0,0
+37,7,Completed,12712483,AURORA-381,Add a Navbar with Aurora logo on every page,3,mansu,0,0
+37,7,Completed,12712487,AURORA-384,Remove cron jobs table from /role page,3,mansu,0,0
+37,7,Completed,12713402,AURORA-404,Validate values between UpdateConfig and HealthCheckConfig,3,maximk,0,0
+37,7,Completed,12713427,AURORA-406,SLA stats should not be in internal TSDB,2,maximk,0,0
+37,7,Completed,12713679,AURORA-410,MetricCalculator thread should block until storage is ready,1,maximk,0,0
+37,7,Completed,12713680,AURORA-411,On job page  'Running duration' is always 'a few seconds',3,mansu,0,0
+37,7,NotCompletedWithinSprint,12692581,AURORA-149,python code should have a checkstyle run as part of the build,3,wickman,0,0
+37,7,NotCompletedWithinSprint,12709614,AURORA-335,H2-backed implementation of LockStore,3,davmclau,0,0
+37,7,NotCompletedWithinSprint,12709827,AURORA-342,Remove the non-HTTP thrift port,4,wfarner,0,0
+37,7,NotCompletedWithinSprint,12710194,AURORA-350,Parallelize updates to speed up deploys,3,maximk,0,0
+37,7,NotCompletedWithinSprint,12713932,AURORA-417,Add API calls needed for new client cron commands,3,mchucarroll,0,0
+37,7,NotCompletedWithinSprint,12714304,AURORA-421,H2-backed implementation of QuotaStore,3,wfarner,0,0
+37,7,NotCompletedWithinSprint,12714549,AURORA-433,Write a design doc describing the aurora shorthands and init files.,3,mchucarroll,0,0
+37,7,NotCompletedWithinSprint,12714685,AURORA-438,Turn on JSHint check during build,3,davmclau,0,0
+37,7,NotCompletedWithinSprint,12714885,AURORA-442,Admin SLA commands should be resilient to task queries producing no result,3,maximk,0,0
+37,7,Punted,12713646,AURORA-407,"Implement clientv2 ""cron"" noun.",3,mchucarroll,0,0
+37,7,Punted,12713647,AURORA-408,"Update client ""job"" commands to remove cron-related behavior.",3,mchucarroll,0,0
+37,7,Punted,12713704,AURORA-415,H2-backed implementation of JobStore,3,wfarner,0,0
+37,11,Completed,12709614,AURORA-335,H2-backed implementation of LockStore,3,davmclau,0,0
+37,11,Completed,12709827,AURORA-342,Remove the non-HTTP thrift port,4,wfarner,0,0
+37,11,Completed,12712651,AURORA-390,UI should be able to query any scheduler backend,3,mansu,0,0
+37,11,Completed,12713646,AURORA-407,"Implement clientv2 ""cron"" noun.",3,mchucarroll,0,0
+37,11,Completed,12713932,AURORA-417,Add API calls needed for new client cron commands,3,mchucarroll,0,0
+37,11,Completed,12714375,AURORA-425,Merge Active and completed tasks on job page into a single table,3,mansu,0,0
+37,11,Completed,12714685,AURORA-438,Turn on JSHint check during build,3,davmclau,0,0
+37,11,Completed,12714881,AURORA-441,Add grouping option into admin SLA commands,3,maximk,0,0
+37,11,Completed,12714885,AURORA-442,Admin SLA commands should be resilient to task queries producing no result,3,maximk,0,0
+37,11,Completed,12714908,AURORA-446,Remove --groups_per_batch option from the perform_maintenace_hosts,3,maximk,0,0
+37,11,Completed,12715190,AURORA-447,Cron changes broke python thrift test,3,kevints,0,0
+37,11,Completed,12715270,AURORA-449,Upgrade to Bootstrap 3,3,mansu,0,0
+37,11,Completed,12715609,AURORA-452,End-to-end tests fail on release distributions,1,wfarner,0,0
+37,11,Completed,12716925,AURORA-479,Drop restart_threshold > watch_secs validation in UpdateConfig,3,maximk,0,0
+37,11,Completed,12717102,AURORA-484,"Add a ""developing aurora client"" document.",3,mchucarroll,0,0
+37,11,NotCompletedWithinSprint,12688318,AURORA-31,Support an authentication mechanism for client-scheduler communication,3,null,0,0
+37,11,NotCompletedWithinSprint,12692581,AURORA-149,python code should have a checkstyle run as part of the build,3,wickman,0,0
+37,11,NotCompletedWithinSprint,12710194,AURORA-350,Parallelize updates to speed up deploys,3,maximk,0,0
+37,11,NotCompletedWithinSprint,12713647,AURORA-408,"Update client ""job"" commands to remove cron-related behavior.",3,mchucarroll,0,0
+37,11,NotCompletedWithinSprint,12714304,AURORA-421,H2-backed implementation of QuotaStore,3,wfarner,0,0
+37,11,NotCompletedWithinSprint,12714549,AURORA-433,Write a design doc describing the aurora shorthands and init files.,3,mchucarroll,0,0
+37,11,NotCompletedWithinSprint,12717530,AURORA-496,Modify config binding helper registration in clientv2,3,mchucarroll,0,0
+37,11,Punted,12692101,AURORA-142,Remove getVersion API from client,3,wfarner,0,0
+37,11,Punted,12704169,AURORA-296,Move all the JS dependencies into a single location,3,null,0,0
+37,11,Punted,12715571,AURORA-451,Set up test infrastructure for the UI,3,null,0,0
+37,13,NotCompletedWithinSprint,12720440,AURORA-520,"Update ""aurora job diff""",3,null,0,0
+37,15,Completed,12692581,AURORA-149,python code should have a checkstyle run as part of the build,3,wickman,0,0
+37,15,Completed,12708111,AURORA-318,Improve documentation and unit testing for Host Maintenance API,4,yasumoto,0,0
+37,15,Completed,12709912,AURORA-347,CLI should surface information about locks,4,maximk,0,0
+37,15,Completed,12713647,AURORA-408,"Update client ""job"" commands to remove cron-related behavior.",3,mchucarroll,0,0
+37,15,Completed,12714304,AURORA-421,H2-backed implementation of QuotaStore,3,wfarner,0,0
+37,15,Completed,12714538,AURORA-428,Allow project override in list-missing-shipits script,4,davmclau,0,0
+37,15,Completed,12714549,AURORA-433,Write a design doc describing the aurora shorthands and init files.,3,mchucarroll,0,0
+37,15,Completed,12714663,AURORA-437,aurora clientv2 help is malformed,3,mchucarroll,0,0
+37,15,Completed,12714686,AURORA-439,stacktrace from 'aurora sla get-job-uptime -h',3,mchucarroll,0,0
+37,15,Completed,12714906,AURORA-445,Admin perform_maintenance_hosts to check job SLA before draining,3,maximk,0,0
+37,15,Completed,12716423,AURORA-473,V2 client lacks informative output when updating,3,mchucarroll,0,0
+37,15,Completed,12717530,AURORA-496,Modify config binding helper registration in clientv2,3,mchucarroll,0,0
+37,15,Completed,12717572,AURORA-497,Client V2 does not suppress unhandled error stack trace,3,mchucarroll,0,0
+37,15,Completed,12717962,AURORA-502,Aurora2 binary needs to reference admin commands,3,maximk,0,0
+37,15,Completed,12718024,AURORA-503,clientv2 DistributedCommandRunner is missing a symbol,3,mchucarroll,0,0
+37,15,Completed,12718177,AURORA-505,Add a target for a standalone clientv2,3,mchucarroll,0,0
+37,15,Completed,12718409,AURORA-508,Fix ugliness in aurora help,3,mchucarroll,0,0
+37,15,Completed,12718691,AURORA-513,Errors during thrift RPC calls cause ugly stack dumps,3,mchucarroll,0,0
+37,15,Completed,12718873,AURORA-516,Increase maximum instances/job in aurora scheduler,3,mchucarroll,0,0
+37,15,Completed,12721120,AURORA-528,Document available SLA metrics,3,maximk,0,0
+37,15,Completed,12722282,AURORA-537,SLA safe domain host-scoped falls back to cluster-wide when no tasks returned,3,maximk,0,0
+37,15,Completed,12722600,AURORA-539,Create a getTaskStatusLight RPC,3,maximk,0,0
+37,15,Completed,12722644,AURORA-542,perform_maintenance_hosts should drain hosts that passed SLA check,3,maximk,0,0
+37,15,NotCompletedWithinSprint,12688318,AURORA-31,Support an authentication mechanism for client-scheduler communication,3,null,0,0
+37,15,NotCompletedWithinSprint,12690925,AURORA-94,Refactor/remove SchedulerCore in favor of StateManager,4,maximk,0,0
+37,15,NotCompletedWithinSprint,12710194,AURORA-350,Parallelize updates to speed up deploys,3,maximk,0,0
+37,15,NotCompletedWithinSprint,12712037,AURORA-377,No Veto reason is exposed for a task stuck in PENDING due to host constraints,3,maximk,0,0
+37,15,NotCompletedWithinSprint,12722866,AURORA-544,Add an option to allow users to specify log levels in client,3,mchucarroll,0,0
+37,15,NotCompletedWithinSprint,12722868,AURORA-545,Add a flag to allow users to prevent blocking of unknown exceptions in client,3,mchucarroll,0,0
+37,15,NotCompletedWithinSprint,12723728,AURORA-553,Switch to getTasksWithoutConfig RPC on the client where applicable,3,maximk,0,0
+37,15,NotCompletedWithinSprint,12725079,AURORA-571,Admin maintenance fails SLA check when no prod tasks on host,3,maximk,0,0
+37,23,Completed,12710194,AURORA-350,Parallelize updates to speed up deploys,3,maximk,0,0
+37,23,Completed,12712037,AURORA-377,No Veto reason is exposed for a task stuck in PENDING due to host constraints,3,maximk,0,0
+37,23,Completed,12723728,AURORA-553,Switch to getTasksWithoutConfig RPC on the client where applicable,3,maximk,0,0
+37,23,NotCompletedWithinSprint,12690925,AURORA-94,Refactor/remove SchedulerCore in favor of StateManager,4,maximk,0,0
+37,23,NotCompletedWithinSprint,12720440,AURORA-520,"Update ""aurora job diff""",3,null,0,0
+37,23,NotCompletedWithinSprint,12722866,AURORA-544,Add an option to allow users to specify log levels in client,3,mchucarroll,0,0
+37,23,NotCompletedWithinSprint,12722868,AURORA-545,Add a flag to allow users to prevent blocking of unknown exceptions in client,3,mchucarroll,0,0
+37,23,NotCompletedWithinSprint,12725079,AURORA-571,Admin maintenance fails SLA check when no prod tasks on host,3,maximk,0,0
+37,23,NotCompletedWithinSprint,12727132,AURORA-581,Add lightweight hooks for mutating clientv1 commands.,3,mchucarroll,0,0
+37,26,Completed,12706537,AURORA-313,Add variable min offer jitter time window so Aurora can decline offers faster,3,joshua.cohen,0,0
+37,26,Completed,12717479,AURORA-495,UI should always show a pending reason,2,davmclau,0,0
+37,26,Completed,12730393,AURORA-613,Implement job update logic,3,wfarner,0,0
+37,26,Completed,12730395,AURORA-614,Include information about updates in the scheduler UI,3,davmclau,0,0
+37,26,Completed,12730396,AURORA-615,Update aurora client to use job update RPCs,3,mchucarroll,0,0
+37,26,Completed,12736664,AURORA-666,Aurora job status --write-json does not convert status values,3,mchucarroll,0,0
+37,26,Completed,12737165,AURORA-669,Thermos runner collect_updates() gets stuck in a while loop when timeout is 0,3,wickman,0,0
+37,26,Completed,12740017,AURORA-692,aurora_admin should have a find_scheduler command,3,maximk,0,0
+37,26,Completed,12740837,AURORA-700,Scheduler UI should use asynchronous HTTP requests,3,davmclau,0,0
+37,26,Completed,12741607,AURORA-714,Remove 30sec wait from host_drain command,3,maximk,0,0
+37,26,Completed,12741925,AURORA-717,Store new task configuration in JobUpdateConfiguration as InstanceTaskConfig,3,maximk,0,0
+37,26,Completed,12742841,AURORA-732,Disable server-driven job updates by default,3,maximk,0,0
+37,26,NotCompletedWithinSprint,12727792,AURORA-585,aurora/thermos test failure on py26 due to pex,1,joshua.cohen,0,0
+37,26,NotCompletedWithinSprint,12733624,AURORA-649,Implement scheduler API methods linking updater logic and storage,3,maximk,0,0
+37,26,NotCompletedWithinSprint,12738699,AURORA-678,Serve static HTTP assets out of a classpath directory,3,joshua.cohen,0,0
+37,26,NotCompletedWithinSprint,12739244,AURORA-686,Job updates may fail due to exceeding role quota,3,maximk,0,0
+37,26,NotCompletedWithinSprint,12742217,AURORA-722,snapshot performance issues,3,kevints,0,0
+37,26,NotCompletedWithinSprint,12743342,AURORA-737,Improve clientv2 usage helplines.,3,mchucarroll,0,0
+37,26,CompletedInNotherSprint,12690925,AURORA-94,Refactor/remove SchedulerCore in favor of StateManager,4,maximk,0,0
+37,26,CompletedInNotherSprint,12691640,AURORA-131,Deprecate v1 client,3,mchucarroll,0,0
+37,26,CompletedInNotherSprint,12711096,AURORA-369,Create a REST-like interface to aurora,3,wfarner,0,0
+37,26,CompletedInNotherSprint,12716159,AURORA-458,Web interface has become slow  especially the job page,2,davmclau,0,0
+37,26,CompletedInNotherSprint,12722866,AURORA-544,Add an option to allow users to specify log levels in client,3,mchucarroll,0,0
+37,26,CompletedInNotherSprint,12722868,AURORA-545,Add a flag to allow users to prevent blocking of unknown exceptions in client,3,mchucarroll,0,0
+37,26,CompletedInNotherSprint,12725079,AURORA-571,Admin maintenance fails SLA check when no prod tasks on host,3,maximk,0,0
+37,26,CompletedInNotherSprint,12726414,AURORA-579,Upgrading Mesos version from 0.18.0 to 0.19.0,3,dhamon,0,0
+37,26,CompletedInNotherSprint,12730297,AURORA-608,GcExecutorLauncher should throttle initial activity spike,3,maximk,0,0
+37,26,CompletedInNotherSprint,12730356,AURORA-609,Admin host maintenance command does not block on post drain script,3,maximk,0,0
+37,26,CompletedInNotherSprint,12730955,AURORA-626,Add wait_for_batch_completion option into parallel updater,3,maximk,0,0
+37,26,CompletedInNotherSprint,12733332,AURORA-642,aurora job inspect calls print_out() incorrectly,3,mchucarroll,0,0
+37,26,CompletedInNotherSprint,12735620,AURORA-658,unable to run scheduler without mesos infrastructure for development,3,wfarner,0,0
+37,26,CompletedInNotherSprint,12738700,AURORA-679,Upgrade jetty,3,wfarner,0,0
+37,26,CompletedInNotherSprint,12739182,AURORA-683,vagrant up fails due to missing box ubuntu/trusty64,1,wfarner,0,0
+37,26,CompletedInNotherSprint,12740181,AURORA-694,When MemStorage is layered over DbStorage  SQL is not transactioned,2,zmanji,0,0
+37,26,CompletedInNotherSprint,12740626,AURORA-697,GZip compression regression in scheduler,3,joshua.cohen,0,0
+37,39,Completed,12693174,AURORA-187,scheduler failover should never abort an update,2,maximk,0,0
+37,39,Completed,12713681,AURORA-412,Upgrade psutil once post-2.1.1 release is cut,3,wickman,0,0
+37,39,Completed,12739244,AURORA-686,Job updates may fail due to exceeding role quota,3,maximk,0,0
+37,39,Completed,12741926,AURORA-718,JobUpdateConfiguration should reflect work required for a job update,3,wfarner,0,0
+37,39,Completed,12742902,AURORA-733,MedianAlgorithm results should be windowed in time,3,maximk,0,0
+37,39,Completed,12743637,AURORA-745,Show in-flight and recently completed updates in scheduler UI,3,davmclau,0,0
+37,39,Completed,12744182,AURORA-755,Issue with partial deploys in the update instance summary,3,davmclau,0,0
+37,39,Completed,12744754,AURORA-764,Stop sending deleted task events  ignore incoming deleted task events.,3,wfarner,0,0
+37,39,Completed,12744986,AURORA-772,Add username to the update events,3,davmclau,0,0
+37,39,NotCompletedWithinSprint,12690915,AURORA-84,Deprecate the Identity struct,3,maximk,0,0
+37,39,NotCompletedWithinSprint,12693001,AURORA-175,thermos runner should discriminate failures using exit status,2,wickman,0,0
+37,39,NotCompletedWithinSprint,12727792,AURORA-585,aurora/thermos test failure on py26 due to pex,1,joshua.cohen,0,0
+37,39,NotCompletedWithinSprint,12738699,AURORA-678,Serve static HTTP assets out of a classpath directory,3,joshua.cohen,0,0
+37,39,NotCompletedWithinSprint,12742217,AURORA-722,snapshot performance issues,3,kevints,0,0
+37,39,NotCompletedWithinSprint,12742688,AURORA-728,Executor does not handle announcer errors properly,2,zmanji,0,0
+37,39,NotCompletedWithinSprint,12743576,AURORA-742,Add client commands to query server-driven updates.,3,mchucarroll,0,0
+37,39,NotCompletedWithinSprint,12743867,AURORA-748,Help command is broken,4,yasumoto,0,0
+37,39,NotCompletedWithinSprint,12745390,AURORA-780,python checkstyle looks at 3rdparty,3,joshua.cohen,0,0
+37,39,NotCompletedWithinSprint,12745528,AURORA-781,Fix bind parameter processing in client,3,mchucarroll,0,0
+37,39,CompletedInNotherSprint,12733624,AURORA-649,Implement scheduler API methods linking updater logic and storage,3,maximk,0,0
+37,39,CompletedInNotherSprint,12743342,AURORA-737,Improve clientv2 usage helplines.,3,mchucarroll,0,0
+37,39,CompletedInNotherSprint,12743573,AURORA-741,DbJobUpdateStore can't fetch updates that have no initial state,1,maximk,0,0
+37,42,Completed,12692101,AURORA-142,Remove getVersion API from client,3,wfarner,0,0
+37,42,Completed,12693001,AURORA-175,thermos runner should discriminate failures using exit status,2,wickman,0,0
+37,42,Completed,12693004,AURORA-176,more gracefully handle cases where user does not exist on machine,2,wickman,0,0
+37,42,Completed,12709594,AURORA-333,finish all deprecations in schema/base.py,3,zmanji,0,0
+37,42,Completed,12710613,AURORA-363,the new pants selects 2.6.x by default if it's available,3,yasumoto,0,0
+37,42,Completed,12714867,AURORA-440,Document cron,2,kevints,0,0
+37,42,Completed,12718056,AURORA-504,there should be a section to describe how to clone git repo in howtocontribute page,4,joshua.cohen,0,0
+37,42,Completed,12738699,AURORA-678,Serve static HTTP assets out of a classpath directory,3,joshua.cohen,0,0
+37,42,Completed,12739311,AURORA-689,Start vetting Mesos 0.21.0,3,davmclau,0,0
+37,42,Completed,12742217,AURORA-722,snapshot performance issues,3,kevints,0,0
+37,42,Completed,12742688,AURORA-728,Executor does not handle announcer errors properly,2,zmanji,0,0
+37,42,Completed,12743867,AURORA-748,Help command is broken,4,yasumoto,0,0
+37,42,Completed,12743892,AURORA-751,Remove SANDBOX_DELETED task state,3,maximk,0,0
+37,42,Completed,12744832,AURORA-770,V2 client logs HTTP connections to info,3,joshua.cohen,0,0
+37,42,Completed,12745332,AURORA-774,Expose MTTA/R SLA metrics for non-prod jobs,3,maximk,0,0
+37,42,Completed,12745390,AURORA-780,python checkstyle looks at 3rdparty,3,joshua.cohen,0,0
+37,42,Completed,12745608,AURORA-786,Client does not log Response.messageDEPRECATED errors,3,maximk,0,0
+37,42,Completed,12745644,AURORA-788,GC executor doesn't need to exit after period of inactivity,4,kevints,0,0
+37,42,Completed,12746312,AURORA-801,deadlock in scheduler startup,1,kevints,0,0
+37,42,Completed,12746429,AURORA-802,Quota is not checked correctly in startJobUpdate,1,maximk,0,0
+37,42,Completed,12746443,AURORA-803,"Return valid JSON structure as ""job status"" result with ""--write-json""",3,mchucarroll,0,0
+37,42,Completed,12746557,AURORA-806,Support per batch post_drain execution in admin host_drain command,2,maximk,0,0
+37,42,Completed,12746559,AURORA-807,GC executor doesn't ignore launchTasks when it's shutting down,3,kevints,0,0
+37,42,Completed,12746824,AURORA-819,Investigate JaCoCo plugin failure in Jenkins Build 633,3,zmanji,0,0
+37,42,Completed,12746832,AURORA-820,Admin host_drain should throttle status waiting calls,2,maximk,0,0
+37,42,Completed,12748156,AURORA-836,test_integration_success in test_thermos_task_runner is flaky,3,wfarner,0,0
+37,42,Completed,12748161,AURORA-837,validateSessionKeyForTasks can pass empty set of roles to checkAuthenticated,1,zmanji,0,0
+37,42,Completed,12748468,AURORA-841,LeaderRedirectFilter using rewritten URI path as redirect target,3,joshua.cohen,0,0
+37,42,Completed,12748625,AURORA-846,document /etc/aurora/clusters.json,3,joshua.cohen,0,0
+37,42,Completed,12748659,AURORA-848,Handle resourceOffers callback asynchronously,2,zmanji,0,0
+37,42,NotCompletedWithinSprint,12690108,AURORA-72,Improve root README.md,3,kevints,0,0
+37,42,NotCompletedWithinSprint,12690915,AURORA-84,Deprecate the Identity struct,3,maximk,0,0
+37,42,NotCompletedWithinSprint,12731147,AURORA-627,use latest psutil library for thermos in pants,3,yasumoto,0,0
+37,42,NotCompletedWithinSprint,12744744,AURORA-763,Document how to use the new asynchronous updater feature,3,wfarner,0,0
+37,42,NotCompletedWithinSprint,12745385,AURORA-779,v2 client has worse error message than v1,3,mchucarroll,0,0
+37,42,NotCompletedWithinSprint,12745531,AURORA-782,Remove command bridging from client,3,wfarner,0,0
+37,42,NotCompletedWithinSprint,12746227,AURORA-798,investigate flaky test: LockManagerImplTest/testNoDeadlock,3,maximk,0,0
+37,42,NotCompletedWithinSprint,12747802,AURORA-830,Make Executor Overhead Configurable,4,zmanji,0,0
+37,42,NotCompletedWithinSprint,12747830,AURORA-833,Extract complex gradle tasks from build.gradle,3,wfarner,0,0
+37,42,NotCompletedWithinSprint,12747854,AURORA-834,what to-do with the distribution files,3,null,0,0
+37,42,NotCompletedWithinSprint,12748448,AURORA-839,Add documentation describing the scheduler's storage system,3,maximk,0,0
+37,42,NotCompletedWithinSprint,12748679,AURORA-852,create architectural diagram with description of components,3,StephanErb,0,0
+37,42,NotCompletedWithinSprint,12748766,AURORA-863,provision-dev-cluster.sh refers to mesos egg instead of mesos.native,1,kevints,0,0
+37,42,Punted,12736160,AURORA-662,Remove Rack Limit Default,4,zmanji,0,0
+37,42,Punted,12745368,AURORA-775,Remove v1 client build,3,wfarner,0,0
+37,42,CompletedInNotherSprint,12727792,AURORA-585,aurora/thermos test failure on py26 due to pex,1,joshua.cohen,0,0
+37,42,CompletedInNotherSprint,12743576,AURORA-742,Add client commands to query server-driven updates.,3,mchucarroll,0,0
+37,42,CompletedInNotherSprint,12745528,AURORA-781,Fix bind parameter processing in client,3,mchucarroll,0,0
+37,46,Completed,12690915,AURORA-84,Deprecate the Identity struct,3,maximk,0,0
+37,46,Completed,12717596,AURORA-498,test_end_to_end.sh uses stale aurora client,3,maximk,0,0
+37,46,Completed,12731147,AURORA-627,use latest psutil library for thermos in pants,3,yasumoto,0,0
+37,46,Completed,12744744,AURORA-763,Document how to use the new asynchronous updater feature,3,wfarner,0,0
+37,46,Completed,12745385,AURORA-779,v2 client has worse error message than v1,3,mchucarroll,0,0
+37,46,Completed,12747175,AURORA-824,scheduleCronJob does not check quota or task limits,2,maximk,0,0
+37,46,Completed,12747802,AURORA-830,Make Executor Overhead Configurable,4,zmanji,0,0
+37,46,Completed,12747830,AURORA-833,Extract complex gradle tasks from build.gradle,3,wfarner,0,0
+37,46,Completed,12748448,AURORA-839,Add documentation describing the scheduler's storage system,3,maximk,0,0
+37,46,Completed,12748766,AURORA-863,provision-dev-cluster.sh refers to mesos egg instead of mesos.native,1,kevints,0,0
+37,46,Completed,12749539,AURORA-874,Make clientv2 job status include a header line for tasks like v1.,3,mchucarroll,0,0
+37,46,Completed,12749575,AURORA-875,Update Aurora to depend on mesos 0.20.1,3,kevints,0,0
+37,46,Completed,12749592,AURORA-877,Build fails if thrift cannot be downloaded,1,kevints,0,0
+37,46,Completed,12749660,AURORA-878,Cache Host Attributes along Offer,3,zmanji,0,0
+37,46,Completed,12749818,AURORA-880,Add some wiggle room when requiring min coverage be raised,4,joshua.cohen,0,0
+37,46,Completed,12749937,AURORA-883,Create a utility that provides early CI feedback on code reviews,2,wfarner,0,0
+37,46,Completed,12750113,AURORA-887,aurora job create --open-browser fails with error.,3,mchucarroll,0,0
+37,46,NotCompletedWithinSprint,12690108,AURORA-72,Improve root README.md,3,kevints,0,0
+37,46,NotCompletedWithinSprint,12699009,AURORA-248,Use Mock with specs in client tests,2,davmclau,0,0
+37,46,NotCompletedWithinSprint,12716483,AURORA-476,Run vagrant-based tests regularly,3,null,0,0
+37,46,NotCompletedWithinSprint,12745531,AURORA-782,Remove command bridging from client,3,wfarner,0,0
+37,46,NotCompletedWithinSprint,12746227,AURORA-798,investigate flaky test: LockManagerImplTest/testNoDeadlock,3,maximk,0,0
+37,46,NotCompletedWithinSprint,12747176,AURORA-825,Cron tasks don't check quota when launched,3,maximk,0,0
+37,46,NotCompletedWithinSprint,12749891,AURORA-882,CI broken due to UpdaterTest::test_update_instances_wait_for_batch_completion_filled_batch,1,null,0,0
+37,46,NotCompletedWithinSprint,12750063,AURORA-885,Improve lock held message in client output,3,davmclau,0,0
+37,46,NotCompletedWithinSprint,12750080,AURORA-886,aurora job create --wait-until should exit with error code if the job being waited on fails,3,mchucarroll,0,0
+37,46,NotCompletedWithinSprint,12750115,AURORA-888,Update client documentation to reflect the shift to clientv2.,3,null,0,0
+37,46,Punted,12748987,AURORA-871,Use optimistic locking when scheduling tasks,3,wfarner,0,0
+37,52,Completed,12699009,AURORA-248,Use Mock with specs in client tests,2,davmclau,0,0
+37,52,Completed,12715897,AURORA-456,aurora version command raises KeyError: 'sha',3,zmanji,0,0
+37,52,Completed,12744767,AURORA-766,Client should show information for update details when starting an update.,3,davmclau,0,0
+37,52,Completed,12745536,AURORA-784,"Client reports ""update has started"" for no-op update",3,maximk,0,0
+37,52,Completed,12745772,AURORA-793,Client prints redundant messages,1,zmanji,0,0
+37,52,Completed,12745773,AURORA-794,"Client erroneously prints ""Job not found"" when job exists",3,zmanji,0,0
+37,52,Completed,12746510,AURORA-805,cannot set verbosity from 'aurora job create',3,davmclau,0,0
+37,52,Completed,12747176,AURORA-825,Cron tasks don't check quota when launched,3,maximk,0,0
+37,52,Completed,12748698,AURORA-854,v2 help for cron shows that deschedule takes a --bind-var option but deschedule does not accept a config file,3,zmanji,0,0
+37,52,Completed,12748709,AURORA-857,aurora cron schedule should ouput url,3,zmanji,0,0
+37,52,Completed,12748715,AURORA-859,No tasks to kill message is not surfaced to user in v2,3,wfarner,0,0
+37,52,Completed,12748783,AURORA-865,IOError on aurora job status,3,davmclau,0,0
+37,52,Completed,12750120,AURORA-889,aurora2 beta-update list is broken,1,wfarner,0,0
+37,52,Completed,12750840,AURORA-896,Remove client stack trace redirection,3,zmanji,0,0
+37,52,Completed,12752523,AURORA-912,Scheduler cannot read PruneJobUpdateHistory log operations,1,maximk,0,0
+37,52,Completed,12752553,AURORA-913,Replace MaintenanceMode field with HostAttributes in HostOffer,3,wfarner,0,0
+37,52,Completed,12752917,AURORA-917,aurora job create gives misleading error when used to create a cron job,2,maximk,0,0
+37,52,Completed,12753240,AURORA-920,Deadlock during scheduler startup,1,kevints,0,0
+37,52,Completed,12754922,AURORA-926,Scheduler crashes due to JVM running out of memory on start,1,maximk,0,0
+37,52,NotCompletedWithinSprint,12716483,AURORA-476,Run vagrant-based tests regularly,3,null,0,0
+37,52,NotCompletedWithinSprint,12746227,AURORA-798,investigate flaky test: LockManagerImplTest/testNoDeadlock,3,maximk,0,0
+37,52,NotCompletedWithinSprint,12750213,AURORA-891,Drop argparse dependency,4,joshua.cohen,0,0
+37,52,NotCompletedWithinSprint,12750479,AURORA-893,Non-deterministic ordering of JSON fields in ExecutorConfig causes unnecessary updater churn,3,null,0,0
+37,52,NotCompletedWithinSprint,12751264,AURORA-903,Allow the announcer to use ZooKeeper authentication,3,null,0,0
+37,52,NotCompletedWithinSprint,12752781,AURORA-914,Instrument task scheduling pipeline,3,maximk,0,0
+37,52,NotCompletedWithinSprint,12754344,AURORA-923,Run verb does not return an exit code.,3,zmanji,0,0
+37,52,NotCompletedWithinSprint,12754906,AURORA-925,refactor build.gradle to extract thrift compilation as a separate task class,3,kevints,0,0
+37,52,CompletedInNotherSprint,12690108,AURORA-72,Improve root README.md,3,kevints,0,0
+37,52,CompletedInNotherSprint,12747808,AURORA-831,cron deschedule help includes ambiguous options,4,null,0,0
+37,52,CompletedInNotherSprint,12749891,AURORA-882,CI broken due to UpdaterTest::test_update_instances_wait_for_batch_completion_filled_batch,1,null,0,0
+37,52,CompletedInNotherSprint,12750080,AURORA-886,aurora job create --wait-until should exit with error code if the job being waited on fails,3,mchucarroll,0,0
+37,53,Completed,12746227,AURORA-798,investigate flaky test: LockManagerImplTest/testNoDeadlock,3,maximk,0,0
+37,53,Completed,12750213,AURORA-891,Drop argparse dependency,4,joshua.cohen,0,0
+37,53,Completed,12752781,AURORA-914,Instrument task scheduling pipeline,3,maximk,0,0
+37,53,Completed,12753864,AURORA-921,"Fail fast for cron jobs in ""aurora beta-update start""",2,maximk,0,0
+37,53,Completed,12754344,AURORA-923,Run verb does not return an exit code.,3,zmanji,0,0
+37,53,Completed,12754810,AURORA-924,Improve cron error messages,3,maximk,0,0
+37,53,Completed,12755185,AURORA-928,Executor overhead cannot be dropped to zero,3,zmanji,0,0
+37,53,Completed,12756242,AURORA-936,Aurora admin query command is broken,3,maximk,0,0
+37,53,Completed,12756500,AURORA-938,TestVersionCommand::test_version_with_new_pants fails under py.test,3,kevints,0,0
+37,53,Completed,12757477,AURORA-946,The replaceCronTemplate RPC does not check quota,2,maximk,0,0
+37,53,NotCompletedWithinSprint,12754906,AURORA-925,refactor build.gradle to extract thrift compilation as a separate task class,3,kevints,0,0
+37,53,NotCompletedWithinSprint,12755915,AURORA-930,GC performance issues with snapshot deduplication on large clusters,3,kevints,0,0
+37,53,NotCompletedWithinSprint,12756563,AURORA-939,Executor crashes when it receives an invalid task config,3,zmanji,0,0
+37,53,NotCompletedWithinSprint,12757806,AURORA-949,TRequestsTransport does not raise an exception on 5xx or 4xx responses,4,zmanji,0,0
+37,59,Completed,12691221,AURORA-121,Make the preemptor more efficient,3,wfarner,0,0
+37,59,Completed,12692102,AURORA-143,Remove the getVersion RPC,3,wfarner,0,0
+37,59,Completed,12716204,AURORA-466,Remove message string in Response struct,4,wfarner,0,0
+37,59,Completed,12716205,AURORA-467,Remove version field in Response struct,4,wfarner,0,0
+37,59,Completed,12745531,AURORA-782,Remove command bridging from client,3,wfarner,0,0
+37,59,Completed,12756227,AURORA-935,Improve logging in MaintenanceController,3,maximk,0,0
+37,59,Completed,12756563,AURORA-939,Executor crashes when it receives an invalid task config,3,zmanji,0,0
+37,59,Completed,12756834,AURORA-943,Improve messaging in admin host_drain command,3,maximk,0,0
+37,59,Completed,12757500,AURORA-947,Use thrift's built-in doc generator,4,wfarner,0,0
+37,59,Completed,12757806,AURORA-949,TRequestsTransport does not raise an exception on 5xx or 4xx responses,4,zmanji,0,0
+37,59,Completed,12758741,AURORA-952,method interceptor is fatefully intercepting finalize() with null pointer,4,kevints,0,0
+37,59,Completed,12759031,AURORA-956,The Scheduler can allocate Mesos Tasks with 0 Disk.,1,zmanji,0,0
+37,59,Completed,12759933,AURORA-961,Set default --batch-size in client v2 to 1,3,maximk,0,0
+37,59,Completed,12760571,AURORA-965,Aurora client prints ambiguous trailing error message,3,maximk,0,0
+37,59,Completed,12760616,AURORA-967,Explore adding a PMD rule for validating @Timed attribute placement,3,maximk,0,0
+37,59,NotCompletedWithinSprint,12713690,AURORA-414,if thermos_executor_runner exists on $PATH  choose it instead of embedded runner,2,null,0,0
+37,59,NotCompletedWithinSprint,12716240,AURORA-469,quota check failures should specify how much under quota you are,3,maximk,0,0
+37,59,NotCompletedWithinSprint,12730569,AURORA-617,Switch pants 3rdparty to use python_requirements,3,kevints,0,0
+37,59,NotCompletedWithinSprint,12739971,AURORA-691,Remove populated field in PopulateJobResult struct,3,maximk,0,0
+37,59,NotCompletedWithinSprint,12745368,AURORA-775,Remove v1 client build,3,wfarner,0,0
+37,59,NotCompletedWithinSprint,12747142,AURORA-823,thermos pex GLIBC error when using py27/glibc 2.12/rhel6.4,3,wickman,0,0
+37,59,NotCompletedWithinSprint,12747827,AURORA-832,Remove SANDBOX_DELETED state,3,wfarner,0,0
+37,59,NotCompletedWithinSprint,12752110,AURORA-909,Differentiate between dynamic and static vetoes,3,maximk,0,0
+37,59,NotCompletedWithinSprint,12753196,AURORA-919,Aurora client should provide a --verbose flag and silence DEBUG level log output by default,3,zmanji,0,0
+37,59,NotCompletedWithinSprint,12756208,AURORA-934,client should set User-Agent,3,joshua.cohen,0,0
+37,59,Punted,12715634,AURORA-454,Remove cron functionality in createJob/killTasks,3,maximk,0,0
+37,59,Punted,12743878,AURORA-749,Remove Identity field struct,3,zmanji,0,0
+37,59,CompletedInNotherSprint,12754906,AURORA-925,refactor build.gradle to extract thrift compilation as a separate task class,3,kevints,0,0
+37,59,CompletedInNotherSprint,12755915,AURORA-930,GC performance issues with snapshot deduplication on large clusters,3,kevints,0,0
+37,62,Completed,12716240,AURORA-469,quota check failures should specify how much under quota you are,3,maximk,0,0
+37,62,Completed,12753196,AURORA-919,Aurora client should provide a --verbose flag and silence DEBUG level log output by default,3,zmanji,0,0
+37,62,Completed,12756208,AURORA-934,client should set User-Agent,3,joshua.cohen,0,0
+37,62,Completed,12760920,AURORA-968,Client logs duplicate error messages,3,maximk,0,0
+37,62,Completed,12765225,AURORA-989,"aurora client v2 dont have ""version"" command",3,joshua.cohen,0,0
+37,62,NotCompletedWithinSprint,12761824,AURORA-969,Create scheduler performance benchmark framework,3,maximk,0,0
+37,62,NotCompletedWithinSprint,12761876,AURORA-970,Include aurora version (from .auroraversion) in the client help output,3,joshua.cohen,0,0
+37,62,NotCompletedWithinSprint,12762125,AURORA-973,Add a document describing thrift deprecation procedure,3,maximk,0,0
+37,62,Punted,12713690,AURORA-414,if thermos_executor_runner exists on $PATH  choose it instead of embedded runner,2,null,0,0
+37,62,Punted,12747142,AURORA-823,thermos pex GLIBC error when using py27/glibc 2.12/rhel6.4,3,wickman,0,0
+37,62,CompletedInNotherSprint,12730569,AURORA-617,Switch pants 3rdparty to use python_requirements,3,kevints,0,0
+37,73,Completed,12758069,AURORA-950,aurora job inspect --raw is broken,3,wfarner,0,0
+37,73,Completed,12760524,AURORA-964,Scheduler updater successfully updates a non-existent job,3,wfarner,0,0
+37,73,Completed,12768246,AURORA-1029,Remove client YAML support (drop pyaml dependency),4,wfarner,0,0
+37,73,Completed,12769147,AURORA-1045,Scheduler should avoid performing authentication while holding the write lock,1,wfarner,0,0
+37,73,Completed,12769447,AURORA-1050,test_end_to_end.sh is failing on master,1,wfarner,0,0
+37,73,Completed,12769719,AURORA-1053,StorageBackupImpl doesn't use streaming,3,kevints,0,0
+37,73,NotCompletedWithinSprint,12709351,AURORA-330,aurora update should fail gracefully if job is not a service,2,wfarner,2,2
+37,73,NotCompletedWithinSprint,12742222,AURORA-723,Create design document for security code refactor,3,kevints,2,2
+37,73,NotCompletedWithinSprint,12761824,AURORA-969,Create scheduler performance benchmark framework,3,maximk,0,0
+37,73,NotCompletedWithinSprint,12767220,AURORA-1008,Pystachio section variables don't seem to work as described in the documentation,3,kevints,0,0
+37,73,NotCompletedWithinSprint,12767292,AURORA-1009,Implement pulseJobUpdates RPC,3,maximk,2,2
+37,73,NotCompletedWithinSprint,12767293,AURORA-1010,Modify updater state machine to support heartbeat-driven pause/resume,3,maximk,5,5
+37,73,NotCompletedWithinSprint,12768192,AURORA-1023,Releasing the update lock trips off scheduler updater,2,wfarner,5,5
+37,73,NotCompletedWithinSprint,12768237,AURORA-1024,Implement API for dual reading Thermos checkpoints,3,wickman,8,8
+37,73,NotCompletedWithinSprint,12768242,AURORA-1028,Export TASK_LOST source stats from Scheduler,3,wfarner,5,5
+37,73,Punted,12768861,AURORA-1043,/logconfig does not work when the scheduler is behind SSL,3,null,0,0
+37,73,CompletedInNotherSprint,12771441,AURORA-1076,Docker patch created incompatible ExeuctorInfo changes for GC executor,1,zmanji,1,1
+37,76,Completed,12709351,AURORA-330,aurora update should fail gracefully if job is not a service,2,wfarner,2,2
+37,76,Completed,12749318,AURORA-872,0.7.0 Release Candidate,3,maximk,3,3
+37,76,Completed,12767292,AURORA-1009,Implement pulseJobUpdates RPC,3,maximk,2,2
+37,76,Completed,12767293,AURORA-1010,Modify updater state machine to support heartbeat-driven pause/resume,3,maximk,5,5
+37,76,Completed,12768237,AURORA-1024,Implement API for dual reading Thermos checkpoints,3,wickman,8,8
+37,76,Completed,12771099,AURORA-1071,Modify UpdateConfig schema to support heartbeats,3,maximk,2,2
+37,76,Completed,12771832,AURORA-1088,Expose blockIfNoPulseAfterMs setting in updateSettings.html,3,maximk,1,1
+37,76,Completed,12772180,AURORA-1094,aurora cron start --open-browser fails with stacktrace,3,zmanji,1,1
+37,76,Completed,12774675,AURORA-1120,Add the ability to optionally create an unhooked version of the Aurora client api,3,joshua.cohen,2,2
+37,76,Completed,12775048,AURORA-1124,Aurora beta-update status command is broken,3,maximk,0,0
+37,76,NotCompletedWithinSprint,12742222,AURORA-723,Create design document for security code refactor,3,kevints,2,2
+37,76,NotCompletedWithinSprint,12752110,AURORA-909,Differentiate between dynamic and static vetoes,3,maximk,8,8
+37,76,NotCompletedWithinSprint,12767295,AURORA-1012,Update documentation to explain the scheduler heartbeat mechanism,3,maximk,1,1
+37,76,NotCompletedWithinSprint,12768239,AURORA-1025,Update gc executor to read checkpoint stream from sandbox,3,wickman,0,0
+37,76,NotCompletedWithinSprint,12768240,AURORA-1026,Update observer to read checkpoint stream from sandbox,3,wickman,0,0
+37,76,NotCompletedWithinSprint,12770220,AURORA-1062,apache.aurora.executor.common.HealthChecker should export stats,3,wickman,1,1
+37,76,NotCompletedWithinSprint,12772150,AURORA-1093,Scheduler updates should be uniquely identified by jobKey + updateId,3,wfarner,0,0
+37,76,CompletedInNotherSprint,12761824,AURORA-969,Create scheduler performance benchmark framework,3,maximk,0,0
+37,76,CompletedInNotherSprint,12767220,AURORA-1008,Pystachio section variables don't seem to work as described in the documentation,3,kevints,0,0
+37,76,CompletedInNotherSprint,12768192,AURORA-1023,Releasing the update lock trips off scheduler updater,2,wfarner,5,5
+37,76,CompletedInNotherSprint,12771884,AURORA-1090,Optimize or remove shard uniqueness check from StorageBackfill,2,wfarner,2,2
+37,85,Completed,12720719,AURORA-524,Preemptor should export more detailed statistics,3,wfarner,3,3
+37,85,Completed,12746598,AURORA-808,Refactor the scheduler to allow authenticated subject-per-request,3,kevints,2,2
+37,85,Completed,12752110,AURORA-909,Differentiate between dynamic and static vetoes,3,maximk,8,8
+37,85,Completed,12766931,AURORA-1001,Support Mesos TASK_ERROR state,2,wfarner,0,2
+37,85,Completed,12768143,AURORA-1020,"The --rollback-on-failure option is meaningless for ""aurora job restart""",3,maximk,0,0
+37,85,Completed,12768239,AURORA-1025,Update gc executor to read checkpoint stream from sandbox,3,wickman,3,3
+37,85,Completed,12768242,AURORA-1028,Export TASK_LOST source stats from Scheduler,3,wfarner,5,5
+37,85,Completed,12769757,AURORA-1055,Remove LiveClusterState,3,wfarner,1,1
+37,85,Completed,12770220,AURORA-1062,apache.aurora.executor.common.HealthChecker should export stats,3,wickman,1,1
+37,85,Completed,12772150,AURORA-1093,Scheduler updates should be uniquely identified by jobKey + updateId,3,wfarner,8,8
+37,85,Completed,12772885,AURORA-1108,The scheduler synchronously writes a backup while writing a snapshot to the replicated log,2,maximk,3,3
+37,85,Completed,12776055,AURORA-1134,Quota checks are inaccurate for cron schedule updates,3,maximk,0,3
+37,85,Completed,12777869,AURORA-1155,GC executor broken / Insufficient automated testing,2,wickman,0,0
+37,85,NotCompletedWithinSprint,12742222,AURORA-723,Create design document for security code refactor,3,kevints,2,2
+37,85,NotCompletedWithinSprint,12746599,AURORA-809,Use Apache Shiro for HTTP authentication,3,kevints,5,5
+37,85,NotCompletedWithinSprint,12746606,AURORA-810,Add an end-to-end test case for http basic auth,3,kevints,1,1
+37,85,NotCompletedWithinSprint,12768240,AURORA-1026,Update observer to read checkpoint stream from sandbox,3,wickman,5,5
+37,85,NotCompletedWithinSprint,12768241,AURORA-1027,Update thermos cli to read checkpoint stream from sandbox,3,wickman,0,0
+37,85,NotCompletedWithinSprint,12769746,AURORA-1054,src.test.python.apache.aurora.executor.thermos_task_runner appears to be flaky,3,null,5,5
+37,85,Punted,12777395,AURORA-1146,LocalSchedulerMain broken by JMH upgrade,3,null,0,0
+37,85,CompletedInNotherSprint,12767295,AURORA-1012,Update documentation to explain the scheduler heartbeat mechanism,3,maximk,1,1
+37,92,Completed,12742222,AURORA-723,Create design document for security code refactor,3,kevints,2,2
+37,92,Completed,12746599,AURORA-809,Use Apache Shiro for HTTP authentication,3,kevints,5,5
+37,92,Completed,12752483,AURORA-911,Scheduling vetos are only displayed for the first task in a TaskGroup,3,maximk,3,3
+37,92,Completed,12768240,AURORA-1026,Update observer to read checkpoint stream from sandbox,3,wickman,5,5
+37,92,Completed,12768241,AURORA-1027,Update thermos cli to read checkpoint stream from sandbox,3,wickman,0,5
+37,92,Completed,12771447,AURORA-1077,Allow message to be stored with update write events,3,wfarner,3,3
+37,92,Completed,12772212,AURORA-1097,Scheduler updater should suppress instance events on resume,4,maximk,2,2
+37,92,Completed,12776038,AURORA-1133,Thermos Observer does not export stats via /vars,3,wickman,0,0
+37,92,Completed,12778053,AURORA-1156,Preemptor perf improvements,3,maximk,2,2
+37,92,Completed,12778306,AURORA-1157,Add end-to-end test coverage for async updates,3,wfarner,3,3
+37,92,Completed,12778886,AURORA-1159,NearestFix does not account for certain veto types,3,maximk,5,3
+37,92,Completed,12779583,AURORA-1170,Add more logging in MaintenanceController,3,maximk,0,0
+37,92,Completed,12779639,AURORA-1173,JobUpdateController.systemResume() is not called on scheduler startup anymore,1,maximk,0,0
+37,92,NotCompletedWithinSprint,12746606,AURORA-810,Add an end-to-end test case for http basic auth,3,kevints,1,1
+37,92,NotCompletedWithinSprint,12769746,AURORA-1054,src.test.python.apache.aurora.executor.thermos_task_runner appears to be flaky,3,null,5,5
+37,92,NotCompletedWithinSprint,12778840,AURORA-1158,Consider finding preemption slots asynchronously ,3,maximk,5,5
+37,100,Completed,12746608,AURORA-811,Add ShiroAopModule  shiro AOP @RequiresPermissions annotations,3,kevints,3,3
+37,100,Completed,12778906,AURORA-1160,Rename beta-update to update,3,wfarner,2,2
+37,100,Completed,12779263,AURORA-1168,beta-update list should use a hierarchy for query specifications,3,wfarner,3,3
+37,100,Completed,12779840,AURORA-1174,make-python-sdists failing on master,3,zmanji,1,1
+37,100,Completed,12781340,AURORA-1190,Add a deprecation warning when the client-side updater is used,3,wfarner,0,2
+37,100,Completed,12782319,AURORA-1201,auth_module is not installed in child injector,1,kevints,2,2
+37,100,Completed,12782664,AURORA-1206,Make update status command more versatile,3,wfarner,2,2
+37,100,NotCompletedWithinSprint,12746606,AURORA-810,Add an end-to-end test case for http basic auth,3,kevints,1,1
+37,100,NotCompletedWithinSprint,12746609,AURORA-812,Wire in SPNEGO HTTP module,3,kevints,5,5
+37,100,NotCompletedWithinSprint,12746610,AURORA-813,Add ability to configure client to use Kerberos,3,maximk,3,3
+37,100,NotCompletedWithinSprint,12768248,AURORA-1031,Replace libmesos w/ Pesos,4,null,0,0
+37,100,NotCompletedWithinSprint,12769746,AURORA-1054,src.test.python.apache.aurora.executor.thermos_task_runner appears to be flaky,3,null,5,5
+37,100,NotCompletedWithinSprint,12778840,AURORA-1158,Consider finding preemption slots asynchronously ,3,maximk,5,5
+37,100,NotCompletedWithinSprint,12781043,AURORA-1187,Create JobKey-scoped Permissions and apply to AuroraSchedulerManager,3,kevints,0,5
+37,105,Completed,12746606,AURORA-810,Add an end-to-end test case for http basic auth,3,kevints,1,1
+37,105,Completed,12746609,AURORA-812,Wire in SPNEGO HTTP module,3,kevints,5,5
+37,105,Completed,12746610,AURORA-813,Add ability to configure client to use Kerberos,3,maximk,3,3
+37,105,Completed,12778840,AURORA-1158,Consider finding preemption slots asynchronously ,3,maximk,5,5
+37,105,Completed,12781043,AURORA-1187,Create JobKey-scoped Permissions and apply to AuroraSchedulerManager,3,kevints,5,5
+37,112,Completed,12783698,AURORA-1214,"Reevaluate ""max_schedule_attempts_per_sec"" with asynchronous preemptor",3,maximk,2,2
+37,112,Completed,12784893,AURORA-1219,Improve preemptor efficiency,3,maximk,5,5
+37,112,NotCompletedWithinSprint,12724064,AURORA-556,H2-backed implementation of TaskStore,3,wfarner,20,20
+37,112,NotCompletedWithinSprint,12746744,AURORA-817,Add documentation for HTTP basic and kerberos authentication,3,kevints,2,2
+37,112,NotCompletedWithinSprint,12785959,AURORA-1231,Blocked updates missing from cluster-wide in progress view,3,wfarner,2,2
+37,117,Completed,12693646,AURORA-195,"remove legacy remnants of ""aurora"" executor",4,wfarner,1,1
+37,117,Completed,12741877,AURORA-716,Reconsider default for -require_slave_checkpoint,2,wfarner,0,1
+37,117,Completed,12746744,AURORA-817,Add documentation for HTTP basic and kerberos authentication,3,kevints,2,2
+37,117,Completed,12782440,AURORA-1204,Update upstart configurations when syncing sources,3,wfarner,2,2
+37,117,Completed,12785959,AURORA-1231,Blocked updates missing from cluster-wide in progress view,3,wfarner,2,2
+37,117,Completed,12787798,AURORA-1239,Add a way to watch a scheduler-driven update until it's complete,3,wfarner,0,3
+37,117,Completed,12818655,AURORA-1248,Client retries 4xx errors,3,wfarner,0,3
+37,117,Completed,12819023,AURORA-1259,Add metrics for scheduler update states,3,wfarner,2,2
+37,117,Completed,12820589,AURORA-1277,Create a design document for Health Checks for Updates,3,maximk,5,5
+37,117,Completed,12823586,AURORA-1290,"Allow specifying a shorthand for ""well-known"" Module FQCNs",3,wfarner,0,1
+37,117,Completed,12823587,AURORA-1291,Replace enable_api_security arg with a value for http_authentication_mechanism,3,wfarner,0,1
+37,117,Completed,12826384,AURORA-1299,UpdateConfigError results in stack trace,4,wfarner,0,2
+37,117,Completed,12826456,AURORA-1301,Tests inheriting from AuroraClientCommandTest always pass,2,wfarner,1,1
+37,117,Completed,12827410,AURORA-1305,MemTaskStore: items are not removed from secondary index,4,wfarner,2,2
+37,117,Completed,12827411,AURORA-1306,Upgrade to gradle 2.4,3,wfarner,0,2
+37,117,Completed,12827720,AURORA-1307,API hooks no longer supported for certain client commands,3,maximk,0,3
+37,117,Completed,12828125,AURORA-1309,Build can fail if repo directory absolute path is too long,5,wfarner,0,2
+37,117,Completed,12828190,AURORA-1310,Remove blanket 'Error executing command: ' prefix from client output,5,wfarner,1,1
+37,117,Completed,12828442,AURORA-1315,UpdateStoreBenchmarks broken,3,wfarner,1,1
+37,117,NotCompletedWithinSprint,12724064,AURORA-556,H2-backed implementation of TaskStore,3,wfarner,0,0
+37,117,NotCompletedWithinSprint,12826168,AURORA-1298,Make DbTaskStore suitable for use in production,3,wfarner,5,5
+37,117,NotCompletedWithinSprint,12828196,AURORA-1311,Upgrade to latest h2 version,3,wfarner,1,1
+37,127,Completed,12702203,AURORA-274,Use JDK8 features in scheduler development,4,wfarner,2,2
+37,127,Completed,12724064,AURORA-556,H2-backed implementation of TaskStore,3,wfarner,0,0
+37,127,Completed,12769421,AURORA-1047,Implement state reconciliation within the scheduler,3,maximk,8,8
+37,127,Completed,12785620,AURORA-1228,Use explicit status update acknowledgements to improve driver throughput.,3,bmahler,0,0
+37,127,Completed,12819779,AURORA-1267,Investigate upgrading pants to 0.0.32+,3,kevints,0,0
+37,127,Completed,12826039,AURORA-1296,INSTANCES_SPEC_ARGUMENT client option does not validate instance range,3,maximk,2,2
+37,127,Completed,12828945,AURORA-1318,Benchmark snapshot restore,3,kevints,3,3
+37,127,Completed,12829704,AURORA-1321,Create bulk version of the saveJobInstanceUpdateEvent db store method,3,maximk,3,5
+37,127,Completed,12830787,AURORA-1325,`src/test/python/apache/aurora/api_util.py` is not apart of any pants targets,4,zmanji,0,1
+37,127,NotCompletedWithinSprint,12740639,AURORA-698,aurora executor _shutdown deadline calls should be daemonized,3,wickman,0,1
+37,127,NotCompletedWithinSprint,12830350,AURORA-1322,DB task store is enabled by default when staging a recovery,3,maximk,0,2
+37,127,CompletedInNotherSprint,12828196,AURORA-1311,Upgrade to latest h2 version,3,wfarner,1,1
+37,131,Completed,12822460,AURORA-1287,Scheduler in-memory DB needs a direct console access,3,maximk,5,5
+37,131,Completed,12830350,AURORA-1322,DB task store is enabled by default when staging a recovery,3,maximk,2,2
+37,131,Completed,12832801,AURORA-1337,aurora executor should write checkpoints into sandbox,3,maximk,5,5
+37,131,Completed,12834883,AURORA-1341,Use TaskStatus reason field to populate the memory limit exceeded field in UserTaskLauncher,4,zmanji,0,0
+37,139,Completed,12777000,AURORA-1139,Remove backwards compatibility shims from JobUpdateKey introduction,3,maximk,0,3
+37,139,Completed,12836325,AURORA-1344,Create Aurora oversubscription design summary,3,maximk,5,5
+37,139,Completed,12836687,AURORA-1346,Upgrade requests-kerberos to 0.7.0,3,kevints,0,1
+37,139,Completed,12838206,AURORA-1351,Make observer POLLING_INTERVAL configurable,3,maximk,0,2
+37,139,Completed,12838273,AURORA-1352,Audit log doesn't capture Shiro subject principal,3,kevints,0,3
+37,139,Completed,12838585,AURORA-1353,MesosPathDetector double-counts checkpoint roots,3,wickman,0,2
+37,139,Completed,12839015,AURORA-1361,Explicit reconciliation must use SLAVE_ASSIGNED_STATES,3,maximk,2,2
+37,151,Completed,12713704,AURORA-415,H2-backed implementation of JobStore,3,wfarner,0,3
+37,151,Completed,12771409,AURORA-1074,"Remove the ""enable_legacy_constraints"" flag.",3,zmanji,2,2
+37,151,Completed,12826168,AURORA-1298,Make DbTaskStore suitable for use in production,3,wfarner,5,5
+37,151,Completed,12831475,AURORA-1327,MesosSchedulerImpl should check if reason is present when posting status updates,3,wfarner,2,2
+37,151,Completed,12832276,AURORA-1333,Remove GC executor code,3,maximk,0,4
+37,151,Completed,12832277,AURORA-1334,Remove GCExecutorLauncher code,3,maximk,0,3
+37,151,Completed,12839991,AURORA-1368,shutdown_endpoint fields should be in the aurora schema,1,wickman,0,2
+37,151,Completed,12840940,AURORA-1375,When setting quota  the scheduler should prevent setting below current usage,3,zmanji,2,2
+37,151,NotCompletedWithinSprint,12841792,AURORA-1379,Referential integrity violation when replaying storage,3,wfarner,2,2
+37,151,CompletedInNotherSprint,12740639,AURORA-698,aurora executor _shutdown deadline calls should be daemonized,3,wickman,1,1
+37,156,Completed,12772206,AURORA-1096,Scheduler updater should limit the number of job/instance events,3,yasumoto,5,5
+37,156,Completed,12832275,AURORA-1332,Updater does not skip already updated instances with /INSTANCES option.,3,wfarner,2,2
+37,156,Completed,12838273,AURORA-1352,Audit log doesn't capture Shiro subject principal,3,kevints,3,3
+37,156,Completed,12843581,AURORA-1383,Unique constraint on task_config_metadata.key should be removed,3,wfarner,0,2
+37,156,Completed,12843641,AURORA-1386,Transaction isolation on DB stores is too strict,2,wfarner,0,2
+37,156,Completed,12843953,AURORA-1390,Primary key violation when modifying cron jobs with DbCronJobStore,3,wfarner,0,2
+37,156,Completed,12843959,AURORA-1392,DbCronJobStore does not go through TaskConfig de-dupe code  breaking uniqueness assumptions elsewhere,3,wfarner,0,5
+37,156,Completed,12844744,AURORA-1397,Python style checker should only report errors,4,wfarner,0,2
+37,156,Completed,12844999,AURORA-1399,update start --wait should exit non-zero when the update was non-successful,3,wfarner,0,0
+37,156,Completed,12845658,AURORA-1401,DB deadlock caused stuck job update,3,wfarner,2,2
+37,156,NotCompletedWithinSprint,12844308,AURORA-1395,RescheduleCalculator precondition fails when using DbTaskStore,2,wfarner,0,5
+37,156,CompletedInNotherSprint,12841792,AURORA-1379,Referential integrity violation when replaying storage,3,wfarner,2,2
+37,160,Completed,12836242,AURORA-1342,shiro.ini with blank users section fails to parse.,3,kevints,1,1
+37,160,Completed,12848421,AURORA-1406,End-to-end test stalls at SSH prompt,2,wfarner,2,2
+37,160,Completed,12848422,AURORA-1407,IllegalArgumentException in end-to-end tests,1,wfarner,0,3
+37,160,Completed,12848678,AURORA-1409,End-to-end tests fail with 401 unuthorized,1,kevints,3,3
+37,160,NotCompletedWithinSprint,12690928,AURORA-97,Provide a web UI page to show history for a specific job instance,4,joshua.cohen,0,0
+37,160,NotCompletedWithinSprint,12842355,AURORA-1381,Remove duplicate thermos_observer,4,null,0,2
+37,160,NotCompletedWithinSprint,12844308,AURORA-1395,RescheduleCalculator precondition fails when using DbTaskStore,2,wfarner,5,5
+37,160,NotCompletedWithinSprint,12846403,AURORA-1402,Allow overriding cluster attributes via environment variables,3,yasumoto,5,5
+37,160,Punted,12767535,AURORA-1014,Client binding_helper to resolve docker label to a stable ID at create,3,santhk,5,5
+37,160,Punted,12821849,AURORA-1282,twitter.common.stats.Stats warns about exported metric names,4,yasumoto,3,3
+37,163,Completed,12775078,AURORA-1125,Update page UI should have some indication of ongoing activity,4,joshua.cohen,0,3
+37,163,Completed,12781562,AURORA-1193,Improve UI task status reporting experience,4,maximk,0,2
+37,163,Completed,12844308,AURORA-1395,RescheduleCalculator precondition fails when using DbTaskStore,2,wfarner,5,5
+37,163,Completed,12849967,AURORA-1415,De-generalize resource handling in Scheduler,3,maximk,8,8
+37,163,Completed,12849981,AURORA-1421,Surface revoked task reason in the UI,3,maximk,0,3
+37,163,Completed,12851188,AURORA-1425,Speed up iteration speed when developing UI code,3,joshua.cohen,0,5
+37,163,Completed,12851499,AURORA-1427,Move build-support/packaging to aurora-packaging repo,3,wfarner,0,2
+37,163,Completed,12852332,AURORA-1430,Set up vagrant environment for sudo-less docker commands,3,wfarner,1,1
+37,163,Completed,12852867,AURORA-1431,Slave reservation is too restrictive,1,maximk,0,3
+37,163,Completed,12855967,AURORA-1435,Scheduling loop terminates on the first mismatch,1,maximk,0,2
+37,163,NotCompletedWithinSprint,12690928,AURORA-97,Provide a web UI page to show history for a specific job instance,4,joshua.cohen,0,5
+37,163,NotCompletedWithinSprint,12748678,AURORA-851,Create nightly builds,3,wfarner,0,3
+37,163,NotCompletedWithinSprint,12832273,AURORA-1331,It should be possible to link to an instance from the update page,4,joshua.cohen,0,0
+37,163,NotCompletedWithinSprint,12842355,AURORA-1381,Remove duplicate thermos_observer,4,null,2,2
+37,163,NotCompletedWithinSprint,12848934,AURORA-1410,Publish RPM and deb for 0.9.0,3,wfarner,0,5
+37,163,NotCompletedWithinSprint,12852293,AURORA-1429,Upgrade Mesos to 0.23,4,maximk,2,2
+37,174,Completed,12690928,AURORA-97,Provide a web UI page to show history for a specific job instance,4,joshua.cohen,5,5
+37,174,Completed,12733569,AURORA-647,Don't store serialized thrift objects in the database,3,wfarner,3,3
+37,174,Completed,12748678,AURORA-851,Create nightly builds,3,wfarner,3,3
+37,174,Completed,12783642,AURORA-1213,IP clearance and import of twitter commons java code,4,zmanji,0,8
+37,174,Completed,12832273,AURORA-1331,It should be possible to link to an instance from the update page,4,joshua.cohen,0,1
+37,174,Completed,12849966,AURORA-1414,Schema changes to support revocable jobs,3,maximk,0,3
+37,174,Completed,12849971,AURORA-1417,Handle revocable resources in scheduler,3,maximk,0,0
+37,174,Completed,12849972,AURORA-1418,Ignore revocable resources in preemptor,3,maximk,0,2
+37,174,Completed,12849974,AURORA-1419,FrameworkInfo support for REVOCABLE_RESOURCES capability,3,maximk,0,2
+37,174,Completed,12852293,AURORA-1429,Upgrade Mesos to 0.23,4,maximk,2,2
+37,174,Completed,12856668,AURORA-1437,Implement TierManager to translate tiers to task traits,3,maximk,0,3
+37,174,Completed,12857056,AURORA-1439,Modify resource counters to support revocable slot counters,3,maximk,0,3
+37,174,Completed,12857919,AURORA-1442,Move Twitter Commons into org.apache.aurora namespace and add headers,3,zmanji,0,0
+37,174,NotCompletedWithinSprint,12740616,AURORA-696,No way to link directly to Completed Tasks,3,joshua.cohen,2,2
+37,174,NotCompletedWithinSprint,12848934,AURORA-1410,Publish RPM and deb for 0.9.0,3,wfarner,5,5
+37,179,Completed,12740616,AURORA-696,No way to link directly to Completed Tasks,3,joshua.cohen,2,2
+37,179,Completed,12745535,AURORA-783,Remove redundant page header text,3,joshua.cohen,0,2
+37,179,Completed,12836598,AURORA-1345,Update status page for large jobs is killed by Chrome,3,joshua.cohen,5,5
+37,179,Completed,12859204,AURORA-1445,In-progress instances on Update page continue to pulse after update is aborted,4,joshua.cohen,3,3
+37,179,Completed,12860754,AURORA-1460,Remove quota enforcement for dedicated jobs,3,maximk,3,3
+37,179,Completed,12860756,AURORA-1461,Update RPCs and client/UI to properly identify non-dedicated consumption,3,maximk,2,2
+37,179,Completed,12860783,AURORA-1464,Add e2e integration tests for revocable tasks,3,maximk,3,3
+37,179,Completed,12861396,AURORA-1474,Improve discoverability of dashboard link on the Job page,3,joshua.cohen,0,1
+37,179,NotCompletedWithinSprint,12857885,AURORA-1441,Document oversubscription in Aurora,3,maximk,2,2
+37,179,NotCompletedWithinSprint,12860520,AURORA-1459,DelayExecutor is flaky within scheduling loop,3,wfarner,5,5
+37,179,NotCompletedWithinSprint,12860758,AURORA-1462,Update quota documentation,3,maximk,1,1
+37,179,NotCompletedWithinSprint,12860793,AURORA-1465,Update smart table version to latest,3,null,5,5
+37,179,NotCompletedWithinSprint,12863534,AURORA-1491,"Make ""aurora task"" commands support optional ssh options",4,maximk,0,2
+37,179,Punted,12842155,AURORA-1380,Upgrade to guice 4.0,2,wfarner,3,3
+37,190,Completed,12857885,AURORA-1441,Document oversubscription in Aurora,3,maximk,2,2
+37,190,Completed,12860758,AURORA-1462,Update quota documentation,3,maximk,1,1
+37,190,Completed,12863534,AURORA-1491,"Make ""aurora task"" commands support optional ssh options",4,maximk,2,2
+37,190,Completed,12875737,AURORA-1494,Scheduler fails to start due to thrift/SQL schema data type mismatch,1,maximk,3,3
+37,191,Completed,12901136,AURORA-1502,Create a design summary for the jobConfigDiff RPC,3,maximk,5,5
+37,191,NotCompletedWithinSprint,12901140,AURORA-1503,Determine how best to keep up with Mesos releases,3,zmanji,3,3
+37,197,Completed,12746611,AURORA-814,Migrate client off of deprecated SessionKey APIs,3,wfarner,3,3
+37,197,Completed,12901140,AURORA-1503,Determine how best to keep up with Mesos releases,3,zmanji,3,3
+37,197,Completed,12903476,AURORA-1515,Implement getJobUpdateDiff API without TaskConfig diff support,3,maximk,3,3
+37,197,Completed,12903477,AURORA-1516,"Add update sequence into ""aurora job diff"" command",3,maximk,3,3
+37,197,NotCompletedWithinSprint,12905643,AURORA-1522,ShiroAuthorizationInterceptor doesn't set thriftAPIVersion,3,null,0,0
+37,203,Completed,12839636,AURORA-1364,Improve client error messages for Kerberos errors,4,maximk,0,2
+37,203,Completed,12901981,AURORA-1510,ConcurrentModificationException in PreemptorService,2,zmanji,2,2
+37,203,NotCompletedWithinSprint,12905643,AURORA-1522,ShiroAuthorizationInterceptor doesn't set thriftAPIVersion,3,null,0,0
+37,203,CompletedInNotherSprint,12901982,AURORA-1511,PreemptorService failure does not trigger shutdown,3,zmanji,2,2
+37,211,Completed,12818763,AURORA-1250,0.10.0 release candidate,3,zmanji,3,3
+37,211,NotCompletedWithinSprint,12901444,AURORA-1506,Job updater does not handle DELETED tasks properly,3,maximk,5,5
+37,212,Completed,12930247,AURORA-1582,Task History Pruning attempts can fail silently,3,zmanji,3,3
+37,212,Completed,12930257,AURORA-1583,Consider changing killTasks RPC to be job-scoped,3,maximk,0,0
+37,212,NotCompletedWithinSprint,12819021,AURORA-1258,Improve procedure for adding instances to a job,3,maximk,8,8
+37,212,Punted,12929989,AURORA-1580,java.util.NoSuchElementException from Tasks.getLatestEvent with DbTaskStore,3,wfarner,8,0
+37,220,Completed,12819021,AURORA-1258,Improve procedure for adding instances to a job,3,maximk,8,8
+37,220,Completed,12934634,AURORA-1600,Job updates with large count of instance overrides halt scheduler perf,2,maximk,0,0
+37,220,Completed,12935029,AURORA-1603,Scheduler fails to start after rollback,2,maximk,0,0
+37,220,Completed,12935031,AURORA-1604,Identity.role is still used in the UI leading to duplicate instances on job page,3,maximk,0,0
+37,220,Completed,12938554,AURORA-1614,Failed sandbox initialization can cause tasks to go LOST,4,joshua.cohen,3,3
+37,220,NotCompletedWithinSprint,12936182,AURORA-1607,"Persistent ""Error accessing PooledConnection. Connection is invalid"" exceptions with DbTaskStore enabled",3,zmanji,0,0
+37,220,CompletedInNotherSprint,12934139,AURORA-1596,Invalid connection error from MyBatis.,3,zmanji,0,0
+37,223,Completed,12935315,AURORA-1605,Update recovery docs to reflect changes,4,maximk,0,0
+37,243,Completed,12785257,AURORA-1222,Modify stats and SLA metrics to properly account for STARTING,3,kaih,0,0
+37,243,Completed,12785259,AURORA-1223,"Modify scheduler updater to not use ""watch_secs"" for health-check enabled jobs",3,kaih,5,5
+37,243,CompletedInNotherSprint,12860512,AURORA-1458,"Add tier into the UI ""show config"" summary",3,mnurolahzade,0,0
+37,243,CompletedInNotherSprint,12965726,AURORA-1690,Allow for isolating the executor's filesystem from the task's,3,joshua.cohen,0,0
+37,243,CompletedInNotherSprint,12977290,AURORA-1710,Make 'tier' required and remove support for 'production' flag in Job configuration,3,mnurolahzade,0,0
+37,243,CompletedInNotherSprint,12984482,AURORA-1725,Expose tier configurations as a debug page ,4,mnurolahzade,0,0
+37,250,Completed,12767535,AURORA-1014,Client binding_helper to resolve docker label to a stable ID at create,3,santhk,5,5
+37,250,Completed,12785265,AURORA-1225,Modify executor state transition logic to rely on health checks (if enabled),3,santhk,0,0
+37,250,Completed,12961936,AURORA-1681,Remove deprecated --restart-threshold option from 'aurora job restart',3,joshua.cohen,0,0
+37,250,Completed,12964827,AURORA-1688,Change framework_name default value from 'TwitterScheduler' to 'aurora',3,santhk,0,0
+37,250,Completed,13003872,AURORA-1767,Shell health checker is not namespace and taskfs aware,3,joshua.cohen,0,0
+37,250,Completed,13004424,AURORA-1771,Consider scheduling multiple tasks per scheduling round,3,maximk,0,0
+37,250,Completed,13006060,AURORA-1777,aurora_admin client unable to drain hosts,3,joshua.cohen,0,0

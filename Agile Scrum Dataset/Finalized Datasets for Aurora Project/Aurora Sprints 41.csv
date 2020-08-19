@@ -1,0 +1,41 @@
+﻿sprintId,sprintName,sprintState,sprintStartDate,sprintEndDate,sprintCompleteDate,total,completedIssuesCount,issuesNotCompletedInCurrentSprint,puntedIssues,issuesCompletedInAnotherSprint,issueKeysAddedDuringSprint,completedIssuesInitialEstimateSum,completedIssuesEstimateSum,puntedIssuesInitialEstimateSum,puntedIssuesEstimateSum,issuesNotCompletedInitialEstimateSum,issuesNotCompletedEstimateSum,issuesCompletedInAnotherSprintInitialEstimateSum,issuesCompletedInAnotherSprintEstimateSum,NoOfDevelopers,SprintLength
+7,Q2 Sprint 1,CLOSED,12-May-14,17-May-14,19-May-14,24,9,9,3,0,5,0,0,0,0,0,0,0,0,6,7
+11,Q2 Sprint 2,CLOSED,19-May-14,24-May-14,2-Jun-14,28,15,7,3,0,23,0,0,0,0,0,0,0,0,8,14
+13,Q2 Sprint 3,CLOSED,31-May-14,12-Jun-14,13-Jun-14,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,14
+15,Q2 Sprint 3,CLOSED,2-Jun-14,7-Jun-14,14-Jul-14,31,23,8,0,0,31,0,0,0,0,0,0,0,0,7,42
+23,Q3 Sprint 1,CLOSED,15-Jul-14,19-Jul-14,25-Jul-14,9,3,6,0,0,0,0,0,0,0,0,0,0,0,3,10
+26,Aurora Q3 Sprint 2,CLOSED,8-Sep-14,20-Sep-14,23-Sep-14,35,12,6,0,17,14,0,0,0,0,0,0,0,0,9,15
+39,Aurora Q3 Sprint 3,CLOSED,24-Sep-14,4-Oct-14,6-Oct-14,22,9,10,0,3,6,0,0,0,0,0,0,0,0,9,13
+42,Aurora Q4 Sprint 1,CLOSED,6-Oct-14,18-Oct-14,20-Oct-14,50,30,13,2,3,24,0,0,0,0,0,0,0,0,11,14
+46,Twitter Aurora Q4 Sprint 2,CLOSED,20-Oct-14,1-Nov-14,4-Nov-14,29,17,10,1,0,13,0,0,0,0,0,0,0,0,9,14
+52,Twitter Aurora Q4 Sprint 3,CLOSED,4-Nov-14,15-Nov-14,17-Nov-14,31,19,8,0,4,8,0,0,0,0,0,0,0,0,8,13
+53,Twitter Aurora Q4 Sprint 4,CLOSED,17-Nov-14,27-Nov-14,1-Dec-14,14,10,4,0,0,6,0,0,0,0,0,0,0,0,4,14
+59,Twitter Aurora Q4 Sprint 5,CLOSED,1-Dec-14,13-Dec-14,15-Dec-14,31,15,10,2,2,20,0,0,0,0,0,0,0,0,7,14
+62,Twitter Aurora Q4 Sprint 6,CLOSED,16-Dec-14,20-Dec-14,17-Jan-15,13,5,3,2,1,3,0,0,0,0,0,0,0,0,6,33
+73,Twitter Aurora Q1'15 Sprint 1,CLOSED,20-Jan-15,31-Jan-15,31-Jan-15,18,6,9,1,1,6,0,0,0,0,29,29,1,1,6,10
+76,Twitter Aurora Q1'15 Sprint 2,CLOSED,3-Feb-15,16-Feb-15,17-Feb-15,21,10,7,0,4,7,26,26,0,0,12,12,7,7,6,15
+85,Twitter Aurora Q1'15 Sprint 3,CLOSED,19-Feb-15,2-Mar-15,2-Mar-15,22,13,6,1,1,5,34,39,0,0,18,18,1,1,5,12
+92,Twitter Aurora Q1'15 Sprint 4,CLOSED,2-Mar-15,16-Mar-15,16-Mar-15,16,13,3,0,0,3,30,33,0,0,11,11,0,0,5,14
+100,Twitter Aurora Q1'15 Sprint 5,CLOSED,16-Mar-15,30-Mar-15,31-Mar-15,14,7,7,0,0,4,13,15,0,0,19,24,0,0,5,14
+105,Twitter Aurora Q1'15 Sprint 6,CLOSED,31-Mar-15,13-Apr-15,13-Apr-15,5,5,0,0,0,0,19,19,0,0,0,0,0,0,2,13
+112,Twitter Aurora Q2'15 Sprint 1,CLOSED,13-Apr-15,27-Apr-15,27-Apr-15,5,2,3,0,0,0,7,7,0,0,24,24,0,0,3,14
+117,Twitter Aurora Q2'15 Sprint 2,CLOSED,27-Apr-15,11-May-15,11-May-15,22,19,3,0,0,18,19,37,0,0,6,6,0,0,3,14
+127,Twitter Aurora Q2'15 Sprint 3,CLOSED,11-May-15,25-May-15,26-May-15,12,9,2,0,1,5,18,21,0,0,0,3,1,1,6,15
+131,Twitter Aurora Q2'15 Sprint 4,CLOSED,26-May-15,8-Jun-15,5-Jun-15,4,4,0,0,0,1,12,12,0,0,0,0,0,0,2,10
+139,Twitter Aurora Q2'15 Sprint 5,CLOSED,8-Jun-15,22-Jun-15,22-Jun-15,7,7,0,0,0,7,7,18,0,0,0,0,0,0,3,14
+151,Twitter Aurora Q2'15 Sprint 6,CLOSED,22-Jun-15,6-Jul-15,6-Jul-15,10,8,1,0,1,6,11,23,0,0,2,2,1,1,4,14
+156,Twitter Aurora Q2'15 Sprint 7,CLOSED,6-Jul-15,20-Jul-15,20-Jul-15,12,10,1,0,1,8,12,25,0,0,0,5,2,2,3,14
+160,Twitter Aurora Q2'15 Sprint 8,CLOSED,21-Jul-15,3-Aug-15,3-Aug-15,12,4,4,2,0,5,6,9,8,8,10,12,0,0,6,13
+163,Twitter Aurora Q2'15 Sprint 9,CLOSED,3-Aug-15,17-Aug-15,17-Aug-15,16,10,6,0,0,16,14,34,0,0,4,17,0,0,4,14
+174,Twitter Aurora Q2'15 Sprint 10,CLOSED,17-Aug-15,31-Aug-15,31-Aug-15,15,13,2,0,0,15,13,35,0,0,7,7,0,0,4,14
+179,Twitter Aurora Q3'15 Sprint 11,CLOSED,1-Sep-15,15-Sep-15,14-Sep-15,15,8,5,1,0,3,18,21,3,3,13,15,0,0,4,13
+190,Twitter Aurora Q3'15 Sprint 12,CLOSED,14-Sep-15,28-Sep-15,28-Sep-15,4,4,0,0,0,1,8,8,0,0,0,0,0,0,1,14
+191,Twitter Aurora Q4'15 Sprint 13,CLOSED,28-Sep-15,12-Oct-15,9-Oct-15,2,1,1,0,0,0,5,5,0,0,3,3,0,0,2,11
+197,Twitter Aurora Q4'15 Sprint 14,CLOSED,13-Oct-15,27-Oct-15,26-Oct-15,5,4,1,0,0,1,12,12,0,0,0,0,0,0,4,13
+203,Twitter Aurora Q4'15 Sprint 15,CLOSED,26-Oct-15,9-Nov-15,6-Nov-15,4,2,1,0,1,2,2,4,0,0,0,0,2,2,3,11
+211,Twitter Aurora Q4'15 Sprint 16,CLOSED,10-Nov-15,24-Nov-15,21-Nov-15,2,1,1,0,0,0,3,3,0,0,5,5,0,0,2,11
+212,Twitter Aurora Q1'16 Sprint 17,CLOSED,20-Jan-16,3-Feb-16,1-Feb-16,5,2,1,1,0,1,3,3,8,0,8,8,0,0,3,13
+220,Twitter Aurora Q1'16 Sprint 18,CLOSED,2-Feb-16,16-Feb-16,16-Feb-16,7,5,1,0,1,2,11,11,0,0,0,0,0,0,3,14
+223,Twitter Aurora Q2'16 Sprint 19,CLOSED,17-Feb-16,2-Mar-16,13-Jun-16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,117
+243,Twitter Aurora Q2'16 Sprint 20,CLOSED,31-Aug-16,14-Sep-16,12-Sep-16,6,2,0,0,4,1,5,5,0,0,0,0,0,0,3,12
+250,Twitter Aurora Q2'16 Sprint 21,ACTIVE,14-Sep-16,28-Sep-16,28-Sep-16,7,7,0,0,0,5,5,5,0,0,0,0,0,0,3,14
